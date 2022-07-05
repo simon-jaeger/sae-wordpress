@@ -1,0 +1,41 @@
+/*
+ * Theme Name: Theme
+ * Description: ...
+ * Author: Simon Jäger
+*/
+/* depends on the timber plugin: https://wordpress.org/plugins/timber-library/ */
+
+body {
+  font-family: system-ui;
+  margin: 0;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+input,
+textarea,
+select,
+label,
+button {
+  display: block;
+  width: 100%;
+}
+
+.limit {
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Diverse nützliche globale Regeln */
+* {
+  box-sizing: border-box;
+}
+
+ul:empty,
+img[src=""] {
+  display: none;
+}
