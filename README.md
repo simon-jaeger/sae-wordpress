@@ -1,4 +1,4 @@
-# SAE: CM4002
+# SAE: Content Creation & Online Marketing
 
 Web Development, Simon Jäger
 
@@ -46,60 +46,8 @@ Web Development, Simon Jäger
 - Gruppen(div) und Zentrierungstrick
 - Externes CSS
 - Google Fonts
-- ✍️ Blog-Post mit HTML und CSS schreiben (Typographie, Farbe, Layout) und der Klasse zeigen
+- ✍️ Blog-Post mit HTML und CSS schreiben (Typographie, Farbe, Layout)
 - Von Figma zu CSS
-
-## WordPress: Basics
-
-[📁 Files](./wordpress)
-
-- FTP-Transfer
-  - Basic: https://filezilla-project.org/download.php?type=client
-  - Advanced: https://marketplace.visualstudio.com/items?itemName=liximomo.sftp
-- WordPress downloaden: https://wordpress.org/download/#download-install
-- WordPress installieren
-- Das Admin-Panel: Einstellungen, Posts, Mediathek
-- Gutenberg, der Editor von WordPress
-- ✍️ Schreibe einen Blog-Post
-- ✍️ Vorgefertigte Themes: Recherche und Austausch in Gruppen
-- Plugins:
-    - https://wordpress.org/plugins/blocks-css/
-    - https://wordpress.org/plugins/html-forms/
-    - https://wordpress.org/plugins/timber-library/
-
-## WordPress: Custom Theme
-
-[📁 Files](./theme)
-
-- Starter-Theme
-- Twig: https://twig.symfony.com
-- https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2
-- index.twig, single.twig, category.twig
-
-## Formulare und Iframes
-
-[📁 Files](./forms)
-
-- Formular-Elemente in HTML
-- Kontaktformulare in WordPress (HTML Forms Plugin)
-- Kommentarformulare in WordPress (Twig)
-
-## Meta-Daten und SEO
-
-- HTML-Head
-- Favicons
-- Open Graph
-- https://mangools.com/free-seo-tools/serp-simulator
-- Black Hat SEO
-- Tools (Wave, Lighthouse)
-- WordPress-Seo-Plugin
-
-## Review und Workshop
-
-- Rückblick über alle Themen, Hinweis auf Repo
-- Eigenständiges Arbeiten
-- Einzelbesprechungen
-- Abschluss
 
 ---
 
