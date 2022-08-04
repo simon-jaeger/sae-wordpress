@@ -52,24 +52,36 @@ Web Development, Simon Jäger
 
 [📁 Files](030-wordpress)
 
+- ✍️ Review HTML und CSS
 - WordPress-Download: https://wordpress.org/download/#download-install
 - FTP-Upload: https://filezilla-project.org/download.php?type=client
 - WordPress installieren
 - Das Admin-Panel: Einstellungen, Posts, Mediathek
 - Gutenberg, der Editor von WordPress
+- Kategorien
+- Kommentare
 - ✍️ Schreibe einen Blog-Post
-- ✍️ Vorgefertigte Themes: Recherche, dann Präsentationen
+- Themes: https://pcm.wordpress.org/themes/twentynineteen/
+- ✍️ Weitere Themes: Recherche, dann Präsentationen
 - Plugins: https://wordpress.org/plugins/blocks-css/
-- ✍️ Plugins: Recherche, dann Präsentationen
+- ✍️ Weitere Plugins: Recherche, dann Präsentationen
 
 ## WordPress: Custom Theme
 
 [📁 Files](030-wordpress/sae-theme)
 
-- Starter-Theme (benötigt Timber: https://wordpress.org/plugins/timber-library/)
+- ✍️ Review WordPress
+- Timber: https://wordpress.org/plugins/timber-library/
+- Starter-Theme
 - style.css
+- Customizer (CSS)
+- ✍️ Passe das Theme-CSS an
 - startseite.twig
 - einzelseite.twig
+- Navigation und fixe Seiten
+- ✍️ Passe die Theme-Templates an
+- Timber-Referenz: https://timber.github.io/docs/reference/timber-post/
+- ✍️ Arbeite an deinem Theme
 
 ## Formulare
 
