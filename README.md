@@ -12,9 +12,9 @@ Web Development, Simon Jäger
 - Editor: https://code.visualstudio.com
 - VSCode, Auto-Save und Emmet
 
-## HTML: Basics
+## HTML
 
-[📁 Files](./010-html)
+[📁 Files](010-html)
 
 - Aufbau einer Webpage (Elemente und Verschachtelung)
 - Syntax
@@ -30,9 +30,9 @@ Web Development, Simon Jäger
 - ✍️ Recherche und Austausch in Gruppen
 - Review: https://www.youtube.com/watch?v=ok-plXXHlWw
 
-## CSS: Basics
+## CSS
 
-[📁 Files](./020-css)
+[📁 Files](020-css)
 
 - ✍️ Review HTML
 - Syntax
@@ -50,48 +50,44 @@ Web Development, Simon Jäger
 
 ## WordPress: Basics
 
-[📁 Files](./wordpress)
+[📁 Files](030-wordpress)
 
-- FTP-Transfer
-  - Basic: https://filezilla-project.org/download.php?type=client
-  - Advanced: https://marketplace.visualstudio.com/items?itemName=liximomo.sftp
-- WordPress downloaden: https://wordpress.org/download/#download-install
+- WordPress-Download: https://wordpress.org/download/#download-install
+- FTP-Upload: https://filezilla-project.org/download.php?type=client
 - WordPress installieren
 - Das Admin-Panel: Einstellungen, Posts, Mediathek
 - Gutenberg, der Editor von WordPress
 - ✍️ Schreibe einen Blog-Post
-- ✍️ Vorgefertigte Themes: Recherche und Austausch in Gruppen
-- Plugins:
-    - https://wordpress.org/plugins/blocks-css/
-    - https://wordpress.org/plugins/html-forms/
-    - https://wordpress.org/plugins/timber-library/
+- ✍️ Vorgefertigte Themes: Recherche, dann Präsentationen
+- Plugins: https://wordpress.org/plugins/blocks-css/
+- ✍️ Plugins: Recherche, dann Präsentationen
 
 ## WordPress: Custom Theme
 
 [📁 Files](030-wordpress/sae-theme)
 
-- Starter-Theme
-- Twig: https://twig.symfony.com
-- https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2
-- index.twig, single.twig, category.twig
+- Starter-Theme (benötigt Timber: https://wordpress.org/plugins/timber-library/)
+- style.css
+- startseite.twig
+- einzelseite.twig
 
-## Formulare und Iframes
+## Formulare
 
 [📁 Files](./forms)
 
 - Formular-Elemente in HTML
-- Kontaktformulare in WordPress (HTML Forms Plugin)
-- Kommentarformulare in WordPress (Twig)
+- Kommentarformulare in WordPress (einzelseite.twig)
+- Kontaktformulare in WordPress: https://wordpress.org/plugins/html-forms
 
 ## Meta-Daten und SEO
 
 - HTML-Head
 - Favicons
 - Open Graph
-- https://mangools.com/free-seo-tools/serp-simulator
+- Simulator: https://mangools.com/free-seo-tools/serp-simulator
 - Black Hat SEO
 - Tools (Wave, Lighthouse)
-- WordPress-Seo-Plugin
+- WordPress-Seo-Plugin: https://wordpress.org/plugins/autodescription/
 
 ## Review und Workshop
 
