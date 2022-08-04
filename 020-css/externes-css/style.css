@@ -1,0 +1,20 @@
+/* das ist ein kommentar in css */
+
+/* der body-selector setzt regeln für die ganze page */
+body {
+  font-family: sans-serif;
+  background: #171717;
+  color: #D4D4D8;
+}
+
+/* ein element-selector gilt für alle elemente dieses typs */
+h2 {
+  border-bottom: 1px solid currentColor;
+}
+
+/* class-selectors können über das class-attribut beliebige elemente ansprechen */
+.highlight {
+  background: #262626;
+  padding: 16px;
+  border: 1px solid #737373;
+}

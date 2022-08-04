@@ -1,5 +1,5 @@
 <?php
-Timber::$dirname = 'templates';
+Timber::$dirname = ['templates', 'config'];
 $timber = new Timber;
 
 add_theme_support('title-tag');

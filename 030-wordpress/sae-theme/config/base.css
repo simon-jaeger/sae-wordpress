@@ -1,0 +1,31 @@
+/* sane default rules */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui;
+  line-height: 1.5;
+  margin: 0;
+}
+
+img,
+video,
+input,
+textarea,
+select,
+label,
+button {
+  display: block;
+  width: 100%;
+}
+
+ul:empty,
+p:empty,
+img[src=""] {
+  display: none;
+}
+

@@ -10,6 +10,7 @@ $posts = array_map(function ($post) {
 }, $posts);
 $context['posts'] = join('', $posts);
 
-$context['category'] = single_cat_title('', false);
+$category = single_cat_title('', false);
+$context['category'] = $category ? 'Kategorie: ' . $category : '' ;
 
-Timber::render('category.twig', $context);
+Timber::render('config/index.twig', $context);

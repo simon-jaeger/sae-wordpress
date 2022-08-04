@@ -8,13 +8,13 @@ Web Development, Simon Jäger
 - ✍️ Vorstellungsrunde
 - WWW, HTTP, Domains, URLs
 - Browser: https://www.google.com/chrome/
-- https://autorefresh.io/
-- Quellcode: https://code.visualstudio.com
-- Editor-UI, Auto-Save und Emmet
+- Auto Refresh: https://autorefresh.io/
+- Editor: https://code.visualstudio.com
+- VSCode, Auto-Save und Emmet
 
 ## HTML: Basics
 
-[📁 Files](./html)
+[📁 Files](./010-html)
 
 - Aufbau einer Webpage (Elemente und Verschachtelung)
 - Syntax
@@ -32,7 +32,7 @@ Web Development, Simon Jäger
 
 ## CSS: Basics
 
-[📁 Files](./css)
+[📁 Files](./020-css)
 
 - ✍️ Review HTML
 - Syntax
@@ -45,7 +45,6 @@ Web Development, Simon Jäger
 - Kommentare
 - Gruppen(div) und Zentrierungstrick
 - Externes CSS
-- Google Fonts
 - ✍️ Blog-Post mit HTML und CSS schreiben (Typographie, Farbe, Layout) und der Klasse zeigen
 - Von Figma zu CSS
 
@@ -69,7 +68,7 @@ Web Development, Simon Jäger
 
 ## WordPress: Custom Theme
 
-[📁 Files](./theme)
+[📁 Files](030-wordpress/sae-theme)
 
 - Starter-Theme
 - Twig: https://twig.symfony.com
