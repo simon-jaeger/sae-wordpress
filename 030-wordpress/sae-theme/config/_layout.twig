@@ -9,7 +9,9 @@
     {{ function('wp_head') }}
   </head>
   <body>
-    {{ block('content') }}
+    <div class="page">
+      {{ block('content') }}
+    </div>
     {{ function('wp_footer') }}
   </body>
 </html>
