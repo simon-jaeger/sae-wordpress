@@ -7,7 +7,7 @@
     margin-bottom:16px;
   "
 >
-  <img src="<?php block_field('file') ?>" alt="<?php block_field('alt') ?>">
+  <img src="{{ file }}" alt="{{ alt }}">
   <figcaption
     style="
       position:absolute;
@@ -15,6 +15,6 @@
       font-size: 64px;
     "
   >
-    <?php block_field('text') ?>
+    {{ text }}
   </figcaption>
 </figure>
