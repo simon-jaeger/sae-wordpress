@@ -43,10 +43,9 @@ Web Development, Simon Jäger
 - MDN: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#index
 - ✍️ Recherche und Austausch in Gruppen
 - Kommentare
-- Gruppen(div) und Zentrierungstrick
+- Gruppen(div, nav, main, footer) und Zentrierungstrick
 - Externes CSS
 - ✍️ Blog-Post mit HTML und CSS schreiben (Typographie, Farbe, Layout) und der Klasse zeigen
-- Von Figma zu CSS
 
 ## WordPress: Basics
 
@@ -56,14 +55,17 @@ Web Development, Simon Jäger
 - WordPress-Download: https://wordpress.org/download/#download-install
 - FTP-Upload: https://filezilla-project.org/download.php?type=client
 - WordPress installieren
-- Das Admin-Panel: Einstellungen, Posts, Mediathek
+- Einstellungen
+- Mediathek
+- Posts
+- Pages
 - Gutenberg, der Editor von WordPress
 - Kategorien
 - Kommentare
 - ✍️ Schreibe einen Blog-Post
 - Themes: https://pcm.wordpress.org/themes/twentynineteen/
 - ✍️ Weitere Themes: Recherche, dann Präsentationen
-- Plugins: https://wordpress.org/plugins/blocks-css/
+- Plugins: https://wordpress.org/plugins/duplicate-page/
 - ✍️ Weitere Plugins: Recherche, dann Präsentationen
 
 ## WordPress: Custom Theme
@@ -72,23 +74,23 @@ Web Development, Simon Jäger
 
 - ✍️ Review WordPress
 - Timber: https://wordpress.org/plugins/timber-library/
-- Starter-Theme
+- SAE-Starter-Theme
 - style.css
-- Customizer (CSS)
-- ✍️ Passe das Theme-CSS an
-- startseite.twig
-- einzelseite.twig
-- Navigation und fixe Seiten
-- ✍️ Passe die Theme-Templates an
-- Timber-Referenz: https://timber.github.io/docs/reference/timber-post/
-- ✍️ Arbeite an deinem Theme
+- ✍️ Ändere Name und Autor, schreibe etwas CSS
+- home.html
+- single.html
+- theNav.html
+- ✍️ Arbeite an deinem Theme, füge auch eine fixe Page in theNav.html ein
+- Custom Blocks: https://wordpress.org/plugins/genesis-custom-blocks/
+- Beispiel: *Card*
+- ✍️ Erstelle mindestens einen weiteren Block
 
 ## Formulare
 
 [📁 Files](./forms)
 
 - Formular-Elemente in HTML
-- Kommentarformulare in WordPress (einzelseite.twig)
+- Kommentarformulare in WordPress (single.html)
 - Kontaktformulare in WordPress: https://wordpress.org/plugins/html-forms
 
 ## Meta-Daten und SEO
@@ -110,7 +112,7 @@ Web Development, Simon Jäger
 
 ---
 
-## Empfohlene Ressourcen
+## Weitere Ressourcen
 
 - https://developer.mozilla.org/en-US
 - https://www.internetingishard.com

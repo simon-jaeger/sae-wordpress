@@ -4,18 +4,17 @@
 *::before,
 *::after {
   box-sizing: border-box;
+  margin-top: 0;
 }
 
 body {
-  font-family: system-ui;
+  font-family: system-ui, sans-serif;
   line-height: 1.5;
   margin: 0;
   background: white;
   color: black;
 }
 
-img,
-video,
 input,
 textarea,
 select,
@@ -25,8 +24,18 @@ button {
   width: 100%;
 }
 
+img, video {
+  display: block;
+  max-width: 100%;
+  margin-bottom: 16px;
+}
+
 figure {
   margin: 0;
+}
+
+a:any-link {
+  color: inherit;
 }
 
 ul:empty,

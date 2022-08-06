@@ -9,9 +9,8 @@
     {{ function('wp_head') }}
   </head>
   <body>
-    <div class="page">
-      {{ block('content') }}
-    </div>
+    {% include 'theNav.html' %}
+    {{ block('content') }}
     {{ function('wp_footer') }}
   </body>
 </html>
