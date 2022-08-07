@@ -11,7 +11,7 @@ comments: kommentare
   <img src="{{ post.thumbnail.src }}" alt="{{ post.thumbnail.alt }}">
   <div>{{ post.content }}</div>
 
-  <form {{wp_form}}>
+  <form {{ wp_form }}>
     <input name="comment_post_ID" value="{{ post.id }}" type="hidden">
     <label>
       <span>Name</span>

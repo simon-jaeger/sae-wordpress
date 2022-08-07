@@ -4,12 +4,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
-    <link rel="stylesheet" href="{{ site.theme.link }}/config/base.css">
     <link rel="stylesheet" href="{{ site.theme.link }}/style.css">
     {{ function('wp_head') }}
   </head>
   <body>
-    {% include 'theNav.html' %}
+    {% include '_nav.html' %}
     {{ block('content') }}
     {{ function('wp_footer') }}
   </body>

@@ -73,17 +73,22 @@ Web Development, Simon Jäger
 [📁 Files](030-wordpress/sae-theme)
 
 - ✍️ Review WordPress
+- Theme-Editor
+- Browser-Cache deaktivieren
+- GhostText: https://ghosttext.fregante.com/
 - Timber: https://wordpress.org/plugins/timber-library/
 - SAE-Starter-Theme
 - style.css
 - ✍️ Ändere Name und Autor, schreibe etwas CSS
 - home.html
 - single.html
-- theNav.html
-- ✍️ Arbeite an deinem Theme, füge auch eine fixe Page in theNav.html ein
-- Custom Blocks: https://wordpress.org/plugins/genesis-custom-blocks/
-- Beispiel: *Card*
-- ✍️ Erstelle mindestens einen weiteren Block
+- _nav.html
+- ✍️ Arbeite an deinem Theme, füge auch eine fixe Page in _nav.html ein
+- Custom Blocks: https://lazyblocks.com/documentation/getting-started/
+- Card.html
+- TextOverImage.html
+- ✍️ Erstelle mindestens einen weiteren custom Block
+- ✍️ Zeige deine Fortschritte der Klasse
 
 ## Formulare
 

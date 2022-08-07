@@ -4,8 +4,55 @@
  * Author: Simon Jäger
 */
 
+body {
+  font-family: system-ui;
+  line-height: 1.5;
+  margin: 0;
+  background: white;
+  color: black;
+}
+
 .limit {
   max-width: 640px;
   margin-left: auto;
   margin-right: auto;
 }
+
+/* empfehlenswerte grundregeln */
+/* ------------------------------------------------------------------------- */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin-top: 0;
+}
+
+input,
+textarea,
+select,
+label,
+button {
+  display: block;
+  width: 100%;
+}
+
+img, video {
+  display: block;
+  max-width: 100%;
+}
+
+figure {
+  margin: 0;
+}
+
+a:any-link {
+  color: inherit;
+}
+
+ul:empty,
+p:empty,
+img[src=""] {
+  display: none;
+}
+
