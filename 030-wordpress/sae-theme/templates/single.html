@@ -1,0 +1,35 @@
+<!--
+post.title: titel des posts
+post.content: inhalt des posts
+categories: kategorien
+comments: kommentare
+-->
+
+<main class="limit">
+  <h1>{{ post.title }}</h1>
+  <ul>{{ categories }}</ul>
+  <img src="{{ post.thumbnail.src }}" alt="{{ post.thumbnail.alt }}">
+  <div>{{ post.content }}</div>
+
+  <form {{ wp_form }}>
+    <input name="comment_post_ID" value="{{ post.id }}" type="hidden">
+    <label>
+      Name
+      <input name="author" type="text" required>
+    </label>
+    <label>
+      E-Mail
+      <input name="email" type="email" required>
+    </label>
+    <label>
+      Kommentar
+      <textarea
+        name="comment"
+        placeholder="Schreibe einen Kommentar..."
+      ></textarea>
+    </label>
+    <button>Kommentieren</button>
+
+    <ul>{{ comments }}</ul>
+  </form>
+</main>
