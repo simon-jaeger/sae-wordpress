@@ -7,7 +7,6 @@
 body {
   font-family: system-ui;
   line-height: 1.5;
-  margin: 0;
   background: white;
   color: black;
 }
@@ -21,11 +20,8 @@ body {
 /* empfehlenswerte grundregeln */
 /* ------------------------------------------------------------------------- */
 
-*,
-*::before,
-*::after {
+* {
   box-sizing: border-box;
-  margin-top: 0;
 }
 
 input,
@@ -42,10 +38,6 @@ img, video {
   max-width: 100%;
 }
 
-figure {
-  margin: 0;
-}
-
 a:any-link {
   color: inherit;
 }
@@ -55,4 +47,3 @@ p:empty,
 img[src=""] {
   display: none;
 }
-

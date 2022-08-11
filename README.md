@@ -44,8 +44,9 @@ Web Development, Simon Jäger
 - ✍️ Recherche und Austausch in Gruppen
 - Kommentare
 - Gruppen(div, nav, main, footer) und Zentrierungstrick
-- Externes CSS
-- ✍️ Blog-Post mit HTML und CSS schreiben (Typographie, Farbe, Layout) und der Klasse zeigen
+- Globales CSS (style)
+- ✍️ Blog-Post mit HTML und CSS schreiben (Typographie, Farbe, Layout) und der
+  Klasse zeigen
 
 ## WordPress: Basics
 
@@ -73,11 +74,11 @@ Web Development, Simon Jäger
 [📁 Files](030-wordpress/sae-theme)
 
 - ✍️ Review WordPress
-- Theme-Editor
-- Browser-Cache deaktivieren
-- GhostText: https://ghosttext.fregante.com/
 - Timber: https://wordpress.org/plugins/timber-library/
 - SAE-Starter-Theme
+- Theme-Datei-Editor in WordPress
+- Browser-Cache deaktivieren
+- GhostText: https://ghosttext.fregante.com/
 - style.css
 - ✍️ Ändere Name und Autor, schreibe etwas CSS
 - home.html
@@ -86,13 +87,15 @@ Web Development, Simon Jäger
 - ✍️ Arbeite an deinem Theme, füge auch eine fixe Page in _nav.html ein
 - Custom Blocks: https://lazyblocks.com/documentation/getting-started/
 - Card.html
+- ✍️ Durchforste das Web und identifiziere die Blöcke einer Website deiner Wahl.
+  Teile deine Erkenntnisse mit der Klasse.
 - TextOverImage.html
 - ✍️ Erstelle mindestens einen weiteren custom Block
 - ✍️ Zeige deine Fortschritte der Klasse
 
 ## Formulare
 
-[📁 Files](./forms)
+[📁 Files](040-formulare)
 
 - Formular-Elemente in HTML
 - Kommentarformulare in WordPress (single.html)

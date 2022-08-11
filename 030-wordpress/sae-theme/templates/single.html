@@ -14,21 +14,21 @@ comments: kommentare
   <form {{ wp_form }}>
     <input name="comment_post_ID" value="{{ post.id }}" type="hidden">
     <label>
-      <span>Name</span>
-      <input required name="author" type="text">
+      Name
+      <input name="author" type="text" required>
     </label>
     <label>
-      <span>E-Mail</span>
-      <input required name="email" type="email">
+      E-Mail
+      <input name="email" type="email" required>
     </label>
     <label>
-      <span>Kommentar</span><br>
+      Kommentar
       <textarea
-        placeholder="Schreibe einen Kommentar..."
         name="comment"
+        placeholder="Schreibe einen Kommentar..."
       ></textarea>
     </label>
-    <button type="submit">Kommentieren</button>
+    <button>Kommentieren</button>
 
     <ul>{{ comments }}</ul>
   </form>
