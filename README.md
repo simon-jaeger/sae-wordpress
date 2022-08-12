@@ -77,7 +77,7 @@ Web Development, Simon Jäger
 - Timber: https://wordpress.org/plugins/timber-library/
 - SAE-Starter-Theme
 - Theme-Datei-Editor in WordPress
-- Browser-Cache deaktivieren
+- Eventuell Browser-Cache deaktivieren
 - GhostText: https://ghosttext.fregante.com/
 - style.css
 - ✍️ Ändere Name und Autor, schreibe etwas CSS
