@@ -103,13 +103,22 @@ Web Development, Simon Jäger
 
 ## Meta-Daten und SEO
 
+[📁 Files](050-meta-seo)
+
+- [Video: Intro to Search for Beginners](https://www.youtube.com/watch?v=-0X1AVLIzt0)
+- [Video: Google Search Explained](https://www.youtube.com/watch?v=_0QOePCkyK4)
+- [Video: SEO explained](https://www.youtube.com/watch?v=xnyJQb37RRw)
+- [Video: How to change my Google Search result snippet?](https://www.youtube.com/watch?v=HlEaH_4Y33o)
+- [Artikel: SEO Starter Guide](https://developers.google.com/search/docs/beginner/seo-starter-guide)
+- [Tool: SERP Simulator](https://mangools.com/free-seo-tools/serp-simulator)
+- [Verbotene Techniken](https://developers.google.com/search/docs/advanced/guidelines/overview#quality)
+- [Tool: Wave](https://wave.webaim.org/)
+- [Favicons](https://developers.google.com/search/docs/advanced/appearance/favicon-in-search
+)
 - HTML-Head
-- Favicons
-- Open Graph
-- Simulator: https://mangools.com/free-seo-tools/serp-simulator
-- Black Hat SEO
-- Tools (Wave, Lighthouse)
-- WordPress-Seo-Plugin: https://wordpress.org/plugins/autodescription/
+- Favicon WordPress: Design > Anpassen > Website-Informationen > Website-Icon (256x256)
+- SEO WordPress: https://wordpress.org/plugins/autodescription/
+- ✍️ Favicon und SEO für deine Site
 
 ## Review und Workshop
 
