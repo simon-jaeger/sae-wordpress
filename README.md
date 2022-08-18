@@ -99,7 +99,9 @@ Web Development, Simon Jäger
 
 - Formular-Elemente in HTML
 - Kommentarformulare in WordPress (single.html)
+- ✍️ Schreibe auf den Websites der anderen Studenten jeweils einen Kommentar
 - Kontaktformulare in WordPress: https://wordpress.org/plugins/html-forms
+- ✍️ Erstelle und Teste ein Kontaktformular
 
 ## Meta-Daten und SEO
 
