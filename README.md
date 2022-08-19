@@ -105,6 +105,7 @@ Web Development, Simon Jäger
 
 [📁 Files](050-meta-seo)
 
+- HTML-Head
 - [Video: Intro to Search for Beginners](https://www.youtube.com/watch?v=-0X1AVLIzt0)
 - [Video: Google Search Explained](https://www.youtube.com/watch?v=_0QOePCkyK4)
 - [Video: SEO explained](https://www.youtube.com/watch?v=xnyJQb37RRw)
@@ -115,8 +116,7 @@ Web Development, Simon Jäger
 - [Tool: Wave](https://wave.webaim.org/)
 - [Favicons](https://developers.google.com/search/docs/advanced/appearance/favicon-in-search
 )
-- HTML-Head
-- Favicon WordPress: Design > Anpassen > Website-Informationen > Website-Icon (256x256)
+- Favicon WordPress: Design > Anpassen > Website-Informationen > Website-Icon (512x512)
 - SEO WordPress: https://wordpress.org/plugins/autodescription/
 - ✍️ Favicon und SEO für deine Site
 
