@@ -1,0 +1,31 @@
+{#sub-template für kommentare unter blog-posts#}
+
+<section>
+  <h2>Kommentare</h2>
+  {% for comment in post.comments %}
+    <article style="margin-bottom: 24px;">
+      <strong>{{ comment.author.name }}</strong>
+      <div>{{ comment.comment_content }}</div>
+    </article>
+  {% endfor %}
+  <hr>
+  <form method="post" action="{{ site.site_url~'/wp-comments-post.php' }}">
+    <label>
+      <span>Name</span><br>
+      <input required name="author" type="text">
+    </label>
+    <label>
+      <span>E-Mail</span><br>
+      <input required name="email" type="email" id="email">
+    </label>
+    <label>
+      <span>Kommentar</span><br>
+      <textarea
+        placeholder="Schreibe einen Kommentar..."
+        name="comment"
+      ></textarea>
+    </label>
+    <input name="comment_post_ID" value="{{ post.id }}" type="hidden">
+    <button type="submit" name="Submit">Senden</button>
+  </form>
+</section>

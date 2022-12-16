@@ -1,0 +1,14 @@
+{#template für detailansicht eines blog-posts#}
+
+{% extends "layouts/base.twig" %}
+{% block content %}
+  <h1>{{ post.title }}</h1>
+  <time datetime="{{ post.date|date('Y-m-d') }}">{{ post.date }}</time>
+  {% for category in post.categories %}
+    <a href="{{ category.link }}">{{ category.name }}</a>
+  {% endfor %}
+  <img src="{{ post.thumbnail.src }}" alt="{{ post.thumbnail.alt }}">
+  <div>{{ post.content }}</div>
+  <hr>
+  {% include "includes/comments.twig" %}
+{% endblock %}

@@ -1,0 +1,6 @@
+- [Video: Intro to Search for Beginners](https://www.youtube.com/watch?v=-0X1AVLIzt0)
+- [Video: Google Search Explained](https://www.youtube.com/watch?v=_0QOePCkyK4)
+- [Video: SEO explained](https://www.youtube.com/watch?v=xnyJQb37RRw)
+- [Video: How to change my Google Search result snippet?](https://www.youtube.com/watch?v=HlEaH_4Y33o)
+- [Artikel: SEO Starter Guide](https://developers.google.com/search/docs/beginner/seo-starter-guide)
+- [Tool: SERP Simulator](https://mangools.com/free-seo-tools/serp-simulator)

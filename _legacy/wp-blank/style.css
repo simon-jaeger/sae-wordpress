@@ -1,0 +1,23 @@
+/*
+ * Theme Name: Blank
+ * Description: Ein minimales Starter-Theme. Nutze es als Basis für dein eigenes Theme.
+ * Author: Simon Jäger
+*/
+
+body {
+  font-family: system-ui;
+  max-width: 560px;
+  margin: 0 auto;
+  overflow-y: scroll;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+label, input, textarea, select, button {
+  display: block;
+  width: 100%;
+  margin-bottom: 12px;
+}

@@ -1,0 +1,9 @@
+body {
+  max-width: 400px;
+}
+
+label, input, textarea, select, button {
+  display: block;
+  width: 100%;
+  margin-bottom: 16px;
+}
