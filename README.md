@@ -1,6 +1,6 @@
 # sae cm
 
-websiten erstellen mit wordpress.
+websites erstellen mit wordpress.
 
 - https://canvas.sae.edu/courses/13476
 - https://canvas.sae.edu/courses/13476/assignments/67488
