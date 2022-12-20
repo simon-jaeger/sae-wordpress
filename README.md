@@ -4,6 +4,7 @@ websites erstellen mit wordpress.
 
 - https://canvas.sae.edu/courses/13476
 - https://canvas.sae.edu/courses/13476/assignments/67488
+- [db and ftp credentials](https://docs.google.com/spreadsheets/d/1AbsW0GSadwPqMTr3f30889b4nDQ3nE7zy9SqwPE9KSA/edit#gid=178496325)
 
 ## plugins
 
