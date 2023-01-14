@@ -2,7 +2,7 @@
 
 websites mit wordpress (6 * 6h)
 
-- [canvas](https://canvas.sae.edu/courses/13476)
+- [canvas](https://canvas.sae.edu/courses/14917)
 - [sae blog](https://projekte.sae.ch)
 - [zugangsdaten ftp/db](https://docs.google.com/spreadsheets/d/1AbsW0GSadwPqMTr3f30889b4nDQ3nE7zy9SqwPE9KSA/edit#gid=178496325)
 
