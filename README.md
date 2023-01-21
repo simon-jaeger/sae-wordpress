@@ -8,21 +8,36 @@ websites mit wordpress (6 * 6h)
 
 ## themen
 
-- installation
+- ✍️ vorstellungsrunde
+- www, server, domains, hosting
+- ✍️ hostinganbieter (präsentationen)
+- ftp-upload, unzip
+- wp-installation
 - themes (hello-elementor)
 - plugins (svg-support)
+- ✍️ weitere plugins (präsentationen)
 - posts (gutenberg)
 - kommentare
 - multimedia
+- freie assets (pexels, undraw, tabler)
 - pages (elementor)
 - header und footer (header-footer-elementor)
 - kategorien und index (ultimate-post-kit)
+- ✍️ gutenberg vs elementor (debatte)
 - social media
 - kontaktformular (iframe google forms)
-- responsive design
+- responsive design (elementor)
 - barrierefreiheit (alt-text)
 - seo (autodescription)
+- html/css (custom wp css, custom elementor classes)
+- ✍️ jeweils an aufgaben arbeiten
 - ...
+
+## downloads
+
+- https://filezilla-project.org/download.php?type=client
+- https://wordpress.org/download/
+- https://github.com/ndeet/unzipper/blob/master/unzipper.php
 
 ## themes und plugins
 
@@ -33,7 +48,7 @@ websites mit wordpress (6 * 6h)
 - https://wordpress.org/plugins/ultimate-post-kit/
 - https://wordpress.org/plugins/autodescription/
 
-## links
+## docs
 
 - https://learn.wordpress.org/tutorials/
 - https://elementor.com/academy/get-started/
