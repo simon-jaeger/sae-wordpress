@@ -11,15 +11,18 @@ websites mit wordpress (6 * 6h)
 - ✍️ vorstellungsrunde
 - www, server, domains, hosting
 - ✍️ hostinganbieter (präsentationen)
-- ftp-upload, unzip
-- wp-installation
-- themes (hello-elementor)
-- plugins (svg-support)
-- ✍️ weitere plugins (präsentationen)
+- ftp: connect, upload (wp.zip, unzipper.php)
+- wp: installation
+- ✍️ kursplan durchlesen
+- wp: übersicht
+- themes (twenty)
+- ✍️ recherche: andere blogs [siehe auch: Ideenfindung (K4)]
 - posts (gutenberg)
 - kommentare
 - multimedia
 - freie assets (pexels, undraw, tabler)
+- plugins (svg-support)
+- ✍️ weitere plugins (präsentationen)
 - pages (elementor)
 - header und footer (header-footer-elementor)
 - kategorien und index (ultimate-post-kit)
