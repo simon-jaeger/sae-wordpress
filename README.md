@@ -16,7 +16,7 @@ websites mit wordpress (6 * 6h)
 - ✍️ kursplan durchlesen
 - wp: übersicht
 - themes (twenty)
-- ✍️ recherche: andere blogs [siehe auch: Ideenfindung (K4)]
+- ✍️ recherche: andere blogs [siehe auch: ideenfindung (k4)]
 - posts (gutenberg)
 - kommentare
 - multimedia
