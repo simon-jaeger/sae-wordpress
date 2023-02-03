@@ -11,10 +11,11 @@ websites mit wordpress (6 * 6h)
 - ✍️ vorstellungsrunde
 - www, server, domains, hosting
 - ✍️ hostinganbieter (präsentationen)
+- https://bitwarden.com/
 - ftp: connect, upload (wp.zip, unzipper.php)
 - wp: installation
-- ✍️ kursplan durchlesen
 - wp: übersicht
+- ✍️ kursplan durchlesen
 - themes (twenty)
 - ✍️ recherche: andere blogs [siehe auch: ideenfindung (k4)]
 - posts (gutenberg)
