@@ -17,14 +17,20 @@ websites mit wordpress (6 * 6h)
 - wp: übersicht
 - themes (twenty)
 - ✍️ kursplan durchlesen
-- posts (gutenberg)
+- posts (gutenberg): verwalten, blöcke, inline
 - ✍️ recherche: andere blogs [siehe auch: ideenfindung (k4)]
+- ........................................
 - kommentare
 - multimedia
 - freie assets (pexels, undraw, tabler)
 - plugins (svg-support)
 - ✍️ weitere plugins (präsentationen)
 - pages (elementor)
+- globale farben/typo (site settings)
+- widgets
+- sektionen, spalten
+- farbe, typo
+- box-modell (width, height, padding, ...)
 - header und footer (header-footer-elementor)
 - kategorien und index (ultimate-post-kit)
 - ✍️ gutenberg vs elementor (debatte)
