@@ -15,10 +15,10 @@ websites mit wordpress (6 * 6h)
 - ftp: connect, upload (wp.zip, unzipper.php)
 - wp: installation
 - wp: übersicht
-- ✍️ kursplan durchlesen
 - themes (twenty)
-- ✍️ recherche: andere blogs [siehe auch: ideenfindung (k4)]
+- ✍️ kursplan durchlesen
 - posts (gutenberg)
+- ✍️ recherche: andere blogs [siehe auch: ideenfindung (k4)]
 - kommentare
 - multimedia
 - freie assets (pexels, undraw, tabler)
