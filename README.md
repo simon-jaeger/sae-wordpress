@@ -22,6 +22,7 @@ websites mit wordpress (6 * 6h)
 - ........................................
 - kommentare
 - multimedia
+- bildoptimierung (iloveimg) und alt-text
 - freie assets (pexels, undraw, tabler)
 - plugins (svg-support)
 - ✍️ weitere plugins (präsentationen)
@@ -43,11 +44,13 @@ websites mit wordpress (6 * 6h)
 - ✍️ jeweils an aufgaben arbeiten
 - ...
 
-## downloads
+## tools
 
+- https://www.multibuzz.app/
 - https://filezilla-project.org/download.php?type=client
 - https://wordpress.org/download/
 - https://github.com/ndeet/unzipper/blob/master/unzipper.php
+- https://www.iloveimg.com/
 
 ## themes und plugins
 
