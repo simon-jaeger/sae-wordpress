@@ -27,10 +27,13 @@ websites mit wordpress (6 * 6h)
 - plugins (svg-support)
 - ✍️ weitere plugins (präsentationen)
 - pages (elementor)
+- settings, homepage, verstecke header/footer/title
 - globale farben/typo (site settings)
 - widgets
 - sektionen, spalten
 - farbe, typo
+- links
+- ........................................
 - box-modell (width, height, padding, ...)
 - header und footer (header-footer-elementor)
 - kategorien und index (ultimate-post-kit)
@@ -38,7 +41,6 @@ websites mit wordpress (6 * 6h)
 - social media
 - kontaktformular (iframe google forms)
 - responsive design (elementor)
-- barrierefreiheit (alt-text)
 - seo (autodescription)
 - html/css (custom wp css, custom elementor classes)
 - ✍️ jeweils an aufgaben arbeiten
