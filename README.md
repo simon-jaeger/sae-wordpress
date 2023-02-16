@@ -44,9 +44,9 @@ websites mit wordpress (6 * 6h)
 - [burger-menü](./programmieren/030-burger-menu.md)
 - ✍️ entwickle eine eigene interaktive komponente (z.b. ein dropdown)
 - kategorien und index (ultimate-post-kit)
-- ✍️ gutenberg vs elementor (debatte)
 - social media
 - kontaktformular (iframe google forms)
+- ✍️ gutenberg vs elementor (debatte)
 - seo (autodescription)
 - ✍️ jeweils an aufgaben arbeiten
 - ...
