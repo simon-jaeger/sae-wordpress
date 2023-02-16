@@ -18,7 +18,7 @@ websites mit wordpress (6 * 6h)
 - themes (twenty)
 - ✍️ kursplan durchlesen
 - posts (gutenberg): verwalten, blöcke, inline
-- ✍️ recherche: andere blogs [siehe auch: ideenfindung (k4)]
+- ✍️ recherche: andere blogs (siehe auch: ideenfindung k4)
 - ........................................
 - kommentare
 - multimedia
@@ -32,17 +32,22 @@ websites mit wordpress (6 * 6h)
 - widgets
 - sektionen, spalten
 - farbe, typo
-- links
+- links, iframes (youtube etc.)
 - ........................................
 - box-modell (width, height, padding, ...)
+- allignment (left, right, center, ...)
+- ✍️ baue die beispiel nach
 - header und footer (header-footer-elementor)
+- responsive design (elementor)
+- [javascript](./programmieren/010-javascript.md)
+- [css](./programmieren/020-css.md)
+- [burger-menü](./programmieren/030-burger-menü.md)
+- ✍️ entwickle eine eigene interaktive komponente (z.b. ein dropdown)
 - kategorien und index (ultimate-post-kit)
 - ✍️ gutenberg vs elementor (debatte)
 - social media
 - kontaktformular (iframe google forms)
-- responsive design (elementor)
 - seo (autodescription)
-- html/css (custom wp css, custom elementor classes)
 - ✍️ jeweils an aufgaben arbeiten
 - ...
 
