@@ -72,4 +72,7 @@ websites mit wordpress (6 * 6h)
 
 - https://learn.wordpress.org/tutorials/
 - https://elementor.com/academy/get-started/
+- https://www.internetingishard.com/
+- https://javascript.info/
+- https://jquery.com/
 - https://www.google.com/forms/about/
