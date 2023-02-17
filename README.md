@@ -68,6 +68,7 @@ https://sjaeger.mywdd.info/wordpress/
 - https://wordpress.org/plugins/svg-support/
 - https://wordpress.org/plugins/elementor/
 - https://wordpress.org/plugins/header-footer-elementor/
+- https://wordpress.org/plugins/duplicate-page/
 - https://wordpress.org/plugins/ultimate-post-kit/
 - https://wordpress.org/plugins/autodescription/
 
