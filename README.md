@@ -38,7 +38,7 @@ https://sjaeger.mywdd.info/wordpress/
 - ........................................
 - box-modell (width, height, padding, ...)
 - allignment (left, right, center, ...)
-- ✍️ baue die beispiel nach
+- ✍️ baue die beispiel-page nach
 - header und footer (header-footer-elementor)
 - responsive design (elementor)
 - [javascript](./programmieren/010-javascript.md)
