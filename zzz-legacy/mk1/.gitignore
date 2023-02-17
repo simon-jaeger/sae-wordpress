@@ -1,8 +1,0 @@
-.DS_Store
-*.ignore.*
-
-/.idea
-/.vscode
-/node_modules
-/tmp
-
