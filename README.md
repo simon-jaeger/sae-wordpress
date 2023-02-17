@@ -6,6 +6,8 @@ websites mit wordpress (6 * 6h)
 - [sae blog](https://projekte.sae.ch)
 - [zugangsdaten ftp/db](https://docs.google.com/spreadsheets/d/1AbsW0GSadwPqMTr3f30889b4nDQ3nE7zy9SqwPE9KSA/edit#gid=178496325)
 
+https://sjaeger.mywdd.info/wordpress/
+
 ## themen
 
 - ✍️ vorstellungsrunde
