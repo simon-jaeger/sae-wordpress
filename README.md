@@ -47,7 +47,7 @@ https://sjaeger.mywdd.info/wordpress/
 - [css](./programmieren/020-css.md)
 - [javascript](./programmieren/010-javascript.md)
 - [gallery-example](./programmieren/030-gallery-example.md)
-- ✍️ entwickle eine eigene interaktive komponente (z.b. ein dropdown)
+- ✍️ erweitere selbst ein widget mit custom code (baue z.b. ein dropdown)
 - kategorien und index (ultimate-post-kit)
 - social media
 - kontaktformular (iframe google forms)
