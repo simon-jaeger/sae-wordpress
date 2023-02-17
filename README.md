@@ -38,14 +38,15 @@ https://sjaeger.mywdd.info/wordpress/
 - ........................................
 - box-modell (width, height, padding, ...)
 - allignment (left, right, center, ...)
+- hover rules (elementor)
+- responsive rules (elementor)
 - ✍️ baue die beispiel-page nach
 - header und footer (header-footer-elementor)
-- responsive design (elementor)
-- burger-menü (eingebaut)
-- interaktive elemente (custom)
-- [javascript](./programmieren/010-javascript.md)
+- navigation-menü (eingebautes widget) und wordpress-menüs
+- ........................................
 - [css](./programmieren/020-css.md)
-- [burger-menü](./programmieren/030-burger-menu.md)
+- [javascript](./programmieren/010-javascript.md)
+- [gallery-example](./programmieren/030-gallery-example.md)
 - ✍️ entwickle eine eigene interaktive komponente (z.b. ein dropdown)
 - kategorien und index (ultimate-post-kit)
 - social media
