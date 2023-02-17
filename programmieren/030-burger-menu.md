@@ -1,18 +1,11 @@
-# burger-menü
+# toggle
 
-code für ein bürger-menü, das bei click auf ein icon ein- und ausgeblendet wird.
+code für ein toggle, das bei click eine sektion ein- und ausgeblendet.
 
 ```html
 <script defer>
-  $("#burger-icon").click(function () {
-    $("#burger-menu").toggle()
+  $("#gallery-toggle").click(function () {
+    $("#gallery").slideToggle()
   })
 </script>
-```
-
-```css
-#burger-menu {
-  position: absolute;
-  width: 100%;
-}
 ```

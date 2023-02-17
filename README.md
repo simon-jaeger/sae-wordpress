@@ -26,7 +26,7 @@ https://sjaeger.mywdd.info/wordpress/
 - multimedia
 - bildoptimierung (iloveimg) und alt-text
 - freie assets (pexels, undraw, tabler)
-- plugins (svg-support)
+- plugins (svg-support, duplicate page)
 - ✍️ weitere plugins (präsentationen)
 - pages (elementor)
 - settings, homepage, verstecke header/footer/title
@@ -41,6 +41,8 @@ https://sjaeger.mywdd.info/wordpress/
 - ✍️ baue die beispiel-page nach
 - header und footer (header-footer-elementor)
 - responsive design (elementor)
+- burger-menü (eingebaut)
+- interaktive elemente (custom)
 - [javascript](./programmieren/010-javascript.md)
 - [css](./programmieren/020-css.md)
 - [burger-menü](./programmieren/030-burger-menu.md)
