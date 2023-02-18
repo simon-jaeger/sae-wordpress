@@ -83,6 +83,7 @@ https://sjaeger.mywdd.info/wordpress/
 
 - https://learn.wordpress.org/tutorials/
 - https://elementor.com/academy/get-started/
+- https://developer.mozilla.org/en-US/docs/Web#web_technology_references
 - https://www.internetingishard.com/
 - https://javascript.info/
 - https://jquery.com/
