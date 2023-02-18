@@ -53,7 +53,11 @@ https://sjaeger.mywdd.info/wordpress/
 - kontaktformular (iframe google forms)
 - ✍️ gutenberg vs elementor (debatte)
 - seo (autodescription)
-- ✍️ jeweils an aufgaben arbeiten
+- backups (filezilla + adminer)
+- ✍️ sae-blog (https://projekte.sae.ch/)
+- ✍️ einzelgespräche
+- ✍️ einzel-support
+- ✍️ selbstständiges arbeiten
 - ...
 
 ## tools
