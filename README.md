@@ -44,8 +44,8 @@ https://sjaeger.mywdd.info/wordpress/
 - header und footer (header-footer-elementor)
 - navigation-menü (eingebautes widget) und wordpress-menüs
 - ........................................
-- [css](./programmieren/020-css.md)
-- [javascript](./programmieren/010-javascript.md)
+- [css](./programmieren/010-css.md)
+- [javascript](./programmieren/020-javascript.md)
 - [gallery-example](./programmieren/030-gallery-example.md)
 - ✍️ erweitere selbst ein widget mit custom code (baue z.b. ein dropdown)
 - kategorien und index (ultimate-post-kit)
