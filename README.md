@@ -49,12 +49,12 @@ https://sjaeger.mywdd.info/wordpress/
 - [gallery-example](./programmieren/030-gallery-example.md)
 - ✍️ erweitere selbst ein widget mit custom code (baue z.b. ein dropdown)
 - kategorien und index (ultimate-post-kit)
-- social media
+- social media (widgets, iframes, ...)
 - kontaktformular (iframe google forms)
 - ✍️ gutenberg vs elementor (debatte)
 - seo (autodescription)
 - backups (filezilla + adminer)
-- ✍️ sae-blog (https://projekte.sae.ch/)
+- ✍️ sae-blog (https://projekte.sae.ch/, https://canvas.sae.edu/courses/14917/files/885532)
 - ✍️ einzelgespräche
 - ✍️ einzel-support
 - ✍️ selbstständiges arbeiten
