@@ -53,9 +53,9 @@ https://sjaeger.mywdd.info/wordpress/
 - kontaktformular (iframe google forms)
 - ✍️ gutenberg vs elementor (debatte)
 - seo (google videos)
-  [1](https://www.youtube.com/watch?v=-0X1AVLIzt0)
-  [2](https://www.youtube.com/watch?v=_0QOePCkyK4)
-  [3](https://www.youtube.com/watch?v=xnyJQb37RRw)
+  [1](https://www.youtube.com/watch?v=-0X1AVLIzt0),
+  [2](https://www.youtube.com/watch?v=_0QOePCkyK4),
+  [3](https://www.youtube.com/watch?v=xnyJQb37RRw),
   [4](https://www.youtube.com/watch?v=HlEaH_4Y33o)
 - seo (autodescription plugin)
 - favicon: appearance > customize > site identity > site icon (512x512)
