@@ -49,16 +49,18 @@ https://sjaeger.mywdd.info/wordpress/
 - [gallery-example](./programmieren/030-gallery-example.md)
 - ✍️ erweitere selbst ein widget mit custom code (baue z.b. ein dropdown)
 - kategorien und index (ultimate-post-kit)
-- social media (widgets, iframes, ...)
-- kontaktformular (iframe google forms)
-- ✍️ gutenberg vs elementor (debatte)
+- favicon: appearance > customize > site identity > site icon (512x512)
 - seo (google videos)
   [1](https://www.youtube.com/watch?v=-0X1AVLIzt0),
   [2](https://www.youtube.com/watch?v=_0QOePCkyK4),
   [3](https://www.youtube.com/watch?v=xnyJQb37RRw),
   [4](https://www.youtube.com/watch?v=HlEaH_4Y33o)
 - seo (autodescription plugin)
-- favicon: appearance > customize > site identity > site icon (512x512)
+- ✍️ setze meta-infos für deine posts
+- ........................................
+- social media (widgets, iframes, ...)
+- kontaktformular (iframe google forms)
+- ✍️ gutenberg vs elementor (debatte)
 - backups (filezilla + adminer)
 - ✍️ sae-blog (https://projekte.sae.ch/, https://canvas.sae.edu/courses/14917/files/885532)
 - ✍️ einzelgespräche
