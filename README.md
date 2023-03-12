@@ -60,16 +60,19 @@ https://sjaeger.mywdd.info/wordpress/
 - ........................................
 - ✍️ präsentation fortschritt
 - social media (widgets, iframes, ...)
-- kontaktformular (iframe google forms)
+- kontaktformular (metform)
 - backups (filezilla + adminer)
-- ✍️ sae-blog (https://projekte.sae.ch/, https://canvas.sae.edu/courses/14917/files/885532)
+- ✍️
+  sae-blog (https://projekte.sae.ch/, https://canvas.sae.edu/courses/14917/files/885532)
 - ✍️ selbstständiges arbeiten, einzel-support
-- ...
+- ........................................
+- advanced/optional: custom widgets (elements-kit)
 
 ## tools
 
 - https://www.multibuzz.app/
 - https://filezilla-project.org/download.php?type=client
+- https://www.adminer.org/
 - https://wordpress.org/download/
 - https://github.com/ndeet/unzipper/blob/master/unzipper.php
 - https://www.iloveimg.com/
@@ -84,6 +87,8 @@ https://sjaeger.mywdd.info/wordpress/
 - https://wordpress.org/plugins/duplicate-page/
 - https://wordpress.org/plugins/ultimate-post-kit/
 - https://wordpress.org/plugins/autodescription/
+- https://wordpress.org/plugins/metform/
+- https://wordpress.org/plugins/elementskit-lite/
 
 ## docs
 
