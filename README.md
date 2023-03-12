@@ -44,9 +44,9 @@ https://sjaeger.mywdd.info/wordpress/
 - header und footer (header-footer-elementor)
 - navigation-menü (eingebautes widget) und wordpress-menüs
 - ........................................
-- [css](./programmieren/010-css.md)
-- [javascript](./programmieren/020-javascript.md)
-- [gallery-example](./programmieren/030-gallery-example.md)
+- [css](./code/010-css.md)
+- [javascript](./code/020-javascript.md)
+- [gallery-example](./code/030-gallery-example.md)
 - ✍️ erweitere selbst ein widget mit custom code (baue z.b. ein dropdown)
 - kategorien und index (ultimate-post-kit)
 - favicon: appearance > customize > site identity > site icon (512x512)
@@ -58,14 +58,12 @@ https://sjaeger.mywdd.info/wordpress/
 - seo (autodescription plugin)
 - ✍️ setze meta-infos für deine posts
 - ........................................
+- ✍️ präsentation fortschritt
 - social media (widgets, iframes, ...)
 - kontaktformular (iframe google forms)
-- ✍️ gutenberg vs elementor (debatte)
 - backups (filezilla + adminer)
 - ✍️ sae-blog (https://projekte.sae.ch/, https://canvas.sae.edu/courses/14917/files/885532)
-- ✍️ einzelgespräche
-- ✍️ einzel-support
-- ✍️ selbstständiges arbeiten
+- ✍️ selbstständiges arbeiten, einzel-support
 - ...
 
 ## tools
