@@ -1,9 +1,9 @@
 ```yaml
 variables:
-  - image
-  - text
-  - font_size
-  - background_color
+  - image (media)
+  - text (text)
+  - font_size (number)
+  - background_color (color)
 ```
 
 ```html
