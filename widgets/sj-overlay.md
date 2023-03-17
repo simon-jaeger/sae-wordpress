@@ -7,6 +7,7 @@ variables:
 ```
 
 ```html
+<!-- html -->
 <div
   class="sj-overlay"
   style="
@@ -20,6 +21,7 @@ variables:
 ```
 
 ```css
+/*css*/
 .sj-overlay {
   position: relative;
   display: flex;
