@@ -61,7 +61,7 @@ https://sjaeger.mywdd.info/wordpress/
 - ✍️ präsentation fortschritt
 - social media (widgets, iframes, ...)
 - kontaktformular (metform)
-- backups (filezilla + adminer)
+- backups (filezilla + table plus)
 - ✍️
   sae-blog (https://projekte.sae.ch/, https://canvas.sae.edu/courses/14917/files/885532)
 - ✍️ selbstständiges arbeiten, einzel-support
@@ -70,13 +70,12 @@ https://sjaeger.mywdd.info/wordpress/
 
 ## tools
 
-- https://www.multibuzz.app/
 - https://filezilla-project.org/download.php?type=client
-- https://www.adminer.org/
+- https://tableplus.com/
 - https://wordpress.org/download/
 - https://github.com/ndeet/unzipper/blob/master/unzipper.php
 - https://www.iloveimg.com/
-- https://apps.apple.com/app/id1545870783
+- https://apps.apple.com/app/id1545870783 (color picker)
 
 ## themes und plugins
 
@@ -98,4 +97,3 @@ https://sjaeger.mywdd.info/wordpress/
 - https://www.internetingishard.com/
 - https://javascript.info/
 - https://jquery.com/
-- https://www.google.com/forms/about/
