@@ -66,7 +66,7 @@ https://sjaeger.mywdd.info/wordpress/
   sae-blog (https://projekte.sae.ch/, https://canvas.sae.edu/courses/14917/files/885532)
 - ✍️ selbstständiges arbeiten, einzel-support
 - ........................................
-- advanced/optional: custom widgets (elements-kit)
+- advanced/optional: custom widgets (elements-kit/unlimited elements)
 
 ## tools
 
@@ -88,6 +88,7 @@ https://sjaeger.mywdd.info/wordpress/
 - https://wordpress.org/plugins/autodescription/
 - https://wordpress.org/plugins/metform/
 - https://wordpress.org/plugins/elementskit-lite/
+- https://wordpress.org/plugins/unlimited-elements-for-elementor/
 
 ## docs
 
