@@ -34,7 +34,7 @@ https://sjaeger.mywdd.info/wordpress/
 - widgets
 - sektionen, spalten
 - farbe, typo
-- links, iframes (youtube etc.)
+- links, iframes (instagram etc.)
 - ........................................
 - box-modell (width, height, padding, ...)
 - allignment (left, right, center, ...)
@@ -50,11 +50,7 @@ https://sjaeger.mywdd.info/wordpress/
 - ✍️ erweitere selbst ein widget mit custom code (baue z.b. ein dropdown)
 - kategorien und index (ultimate-post-kit)
 - favicon: appearance > customize > site identity > site icon (512x512)
-- seo (google videos)
-  [1](https://www.youtube.com/watch?v=-0X1AVLIzt0),
-  [2](https://www.youtube.com/watch?v=_0QOePCkyK4),
-  [3](https://www.youtube.com/watch?v=xnyJQb37RRw),
-  [4](https://www.youtube.com/watch?v=HlEaH_4Y33o)
+- seo (https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
 - seo (autodescription plugin)
 - ✍️ setze meta-infos für deine posts
 - ........................................
