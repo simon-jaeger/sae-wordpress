@@ -19,18 +19,23 @@ https://sjaeger.mywdd.info/wordpress/
 - wp: installation
 - wp: übersicht
 - themes vs content
-- ✍️ kursplan durchlesen
 - posts (gutenberg): verwalten, blöcke, inline
+- ✍️ kursplan durchlesen
 - ✍️ recherche: andere blogs (siehe auch: ideenfindung k4)
+- ✍️ recherche: themes (https://themeforest.net/category/wordpress/blog-magazine?sort=rating#content)
 - ........................................
+- favicon: appearance > customize > site identity > site icon (512x512)
 - kommentare
 - multimedia
 - bildoptimierung (iloveimg) und alt-text
 - freie assets (pexels, undraw, remixicon)
-- themes (theme forest etc.)
 - plugins (svg-support, duplicate page)
+- seo (https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
+- seo (autodescription plugin)
+- ✍️ setze meta-infos für deine posts
 - ✍️ weitere plugins (präsentationen)
-- pages (elementor)
+- ........................................
+- elementor/pages
 - settings, homepage, verstecke header/footer/title
 - globale farben/typo (site settings)
 - widgets
@@ -47,17 +52,12 @@ https://sjaeger.mywdd.info/wordpress/
 - navigation-menü (eingebautes widget) und wordpress-menüs
 - ........................................
 - kategorien und index (ultimate-post-kit)
-- favicon: appearance > customize > site identity > site icon (512x512)
-- seo (https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
-- seo (autodescription plugin)
-- ✍️ setze meta-infos für deine posts
+- kontaktformular (metform)
 - ........................................
 - ✍️ präsentation fortschritt
 - social media (widgets, iframes, ...)
-- kontaktformular (metform)
 - backups (filezilla + table plus)
-- ✍️
-  sae-blog (https://projekte.sae.ch/, https://canvas.sae.edu/courses/14917/files/885532)
+- ✍️ sae-blog (https://projekte.sae.ch/, https://canvas.sae.edu/courses/14917/files/885532)
 - ✍️ selbstständiges arbeiten, einzel-support
 - ........................................
 - advanced/optional: custom widgets (elements-kit/unlimited elements)
