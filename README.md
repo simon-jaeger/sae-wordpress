@@ -13,11 +13,12 @@ https://sjaeger.mywdd.info/wordpress/
 - ✍️ vorstellungsrunde
 - www, server, domains, hosting
 - ✍️ hostinganbieter (präsentationen)
-- https://bitwarden.com/
-- ftp: connect, upload (wp.zip, unzipper.php)
+- index.html
+- ftp: connect, upload index.html
+- ftp: upload wp.zip, unzipper.php; unzip
 - wp: installation
 - wp: übersicht
-- themes (twenty)
+- themes vs content
 - ✍️ kursplan durchlesen
 - posts (gutenberg): verwalten, blöcke, inline
 - ✍️ recherche: andere blogs (siehe auch: ideenfindung k4)
@@ -25,7 +26,8 @@ https://sjaeger.mywdd.info/wordpress/
 - kommentare
 - multimedia
 - bildoptimierung (iloveimg) und alt-text
-- freie assets (pexels, undraw, tabler)
+- freie assets (pexels, undraw, remixicon)
+- themes (theme forest etc.)
 - plugins (svg-support, duplicate page)
 - ✍️ weitere plugins (präsentationen)
 - pages (elementor)
@@ -44,10 +46,6 @@ https://sjaeger.mywdd.info/wordpress/
 - header und footer (header-footer-elementor)
 - navigation-menü (eingebautes widget) und wordpress-menüs
 - ........................................
-- [css](./code/010-css.md)
-- [javascript](./code/020-javascript.md)
-- [gallery-example](./code/030-gallery-example.md)
-- ✍️ erweitere selbst ein widget mit custom code (baue z.b. ein dropdown)
 - kategorien und index (ultimate-post-kit)
 - favicon: appearance > customize > site identity > site icon (512x512)
 - seo (https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
