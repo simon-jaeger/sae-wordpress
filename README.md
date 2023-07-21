@@ -13,9 +13,7 @@ https://sjaeger.mywdd.info/wordpress/
 - ✍️ vorstellungsrunde
 - www, server, domains, hosting
 - ✍️ hostinganbieter (präsentationen)
-- index.html
-- ftp: connect, upload index.html
-- ftp: upload wp.zip, unzipper.php; unzip
+- ftp: connect; upload wp.zip, unzipper.php; unzip
 - wp: installation
 - wp: übersicht
 - themes vs content
