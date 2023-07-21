@@ -16,10 +16,13 @@ https://sjaeger.mywdd.info/wordpress/
 - ftp: connect; upload wp.zip, unzipper.php; unzip
 - wp: installation
 - wp: übersicht
+- T: read and explore (https://wordpress.org/documentation/category/where-to-start/)
+- T: kursplan durchlesen
+- T: recherche andere blogs (siehe canvas: ideenfindung)
+- T: start konzept eigener blog (siehe canvas: konzept)
+- ........................................
 - themes vs content
-- posts (gutenberg): verwalten, blöcke, inline
-- ✍️ kursplan durchlesen
-- ✍️ recherche: andere blogs (siehe auch: ideenfindung k4)
+- posts (gutenberg): verwalten, blöcke, inline styles
 - ✍️ recherche: themes (https://themeforest.net/category/wordpress/blog-magazine?sort=rating#content)
 - ........................................
 - favicon: appearance > customize > site identity > site icon (512x512)
@@ -27,6 +30,7 @@ https://sjaeger.mywdd.info/wordpress/
 - multimedia
 - bildoptimierung (iloveimg) und alt-text
 - freie assets (pexels, undraw, remixicon)
+- ........................................
 - plugins (svg-support, duplicate page)
 - seo (https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
 - seo (autodescription plugin)
