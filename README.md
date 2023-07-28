@@ -70,7 +70,7 @@ https://sjaeger.mywdd.info/wordpress/
 - https://tableplus.com/
 - https://wordpress.org/download/
 - https://github.com/ndeet/unzipper/blob/master/unzipper.php
-- https://www.iloveimg.com/
+- https://squoosh.app/
 - https://apps.apple.com/app/id1545870783 (color picker)
 
 ## themes und plugins
@@ -86,11 +86,8 @@ https://sjaeger.mywdd.info/wordpress/
 - https://wordpress.org/plugins/elementskit-lite/
 - https://wordpress.org/plugins/unlimited-elements-for-elementor/
 
-## docs
+## docs and guides
 
 - https://learn.wordpress.org/tutorials/
+- https://www.wpbeginner.com/
 - https://elementor.com/academy/get-started/
-- https://developer.mozilla.org/en-US/docs/Web#web_technology_references
-- https://www.internetingishard.com/
-- https://javascript.info/
-- https://jquery.com/
