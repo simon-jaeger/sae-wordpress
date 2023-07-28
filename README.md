@@ -25,11 +25,13 @@ https://sjaeger.mywdd.info/wordpress/
 - posts (gutenberg): verwalten, blöcke, inline styles
 - ✍️ recherche: themes (https://themeforest.net/category/wordpress/blog-magazine?sort=rating#content)
 - ........................................
-- favicon: appearance > customize > site identity > site icon (512x512)
-- kommentare
 - multimedia
-- bildoptimierung (iloveimg) und alt-text
+- bildoptimierung (squoosh) und alt-text
 - freie assets (pexels, undraw, remixicon)
+- ........................................
+- kommentare
+- kategorien
+- sub indexes: /category/foobar
 - ........................................
 - plugins (svg-support, duplicate page)
 - seo (https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
