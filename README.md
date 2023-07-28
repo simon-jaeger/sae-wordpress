@@ -31,6 +31,7 @@ https://sjaeger.mywdd.info/wordpress/
 - ........................................
 - kommentare
 - kategorien
+- menüs
 - sub indexes: /category/foobar
 - ........................................
 - plugins (svg-support, duplicate page)
@@ -45,7 +46,7 @@ https://sjaeger.mywdd.info/wordpress/
 - widgets
 - sektionen, spalten
 - farbe, typo
-- links, iframes (instagram etc.)
+- links, iframes (social media etc.)
 - ........................................
 - box-modell (width, height, padding, ...)
 - allignment (left, right, center, ...)
