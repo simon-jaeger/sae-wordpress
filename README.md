@@ -50,23 +50,19 @@ https://sjaeger.mywdd.info/wordpress/
 - header, footer (https://wordpress.org/plugins/header-footer-elementor/)
 - ........................................
 - box model (width, height, padding, ...)
-- allignment (left, right, center, ...)
+- flexbox
+- grid
 - hover rules (elementor)
 - responsive rules (elementor)
-- ✍️ baue die beispiel-page nach
-- header und footer (header-footer-elementor)
-- navigation-menü (eingebautes widget) und wordpress-menüs
 - ........................................
 - kategorien und index (ultimate-post-kit)
 - kontaktformular (metform)
 - ........................................
 - ✍️ präsentation fortschritt
-- social media (widgets, iframes, ...)
 - backups (filezilla + table plus)
-- ✍️ sae-blog (https://projekte.sae.ch/, https://canvas.sae.edu/courses/14917/files/885532)
+- advanced/optional: custom widgets (elements-kit/unlimited elements)
 - ✍️ selbstständiges arbeiten, einzel-support
 - ........................................
-- advanced/optional: custom widgets (elements-kit/unlimited elements)
 
 ## tools
 
@@ -81,11 +77,11 @@ https://sjaeger.mywdd.info/wordpress/
 
 - https://wordpress.org/themes/hello-elementor/
 - https://wordpress.org/plugins/svg-support/
+- https://wordpress.org/plugins/duplicate-page/
 - https://wordpress.org/plugins/elementor/
 - https://wordpress.org/plugins/header-footer-elementor/
-- https://wordpress.org/plugins/duplicate-page/
-- https://wordpress.org/plugins/ultimate-post-kit/
 - https://wordpress.org/plugins/autodescription/
+- https://wordpress.org/plugins/ultimate-post-kit/
 - https://wordpress.org/plugins/metform/
 - https://wordpress.org/plugins/elementskit-lite/
 - https://wordpress.org/plugins/unlimited-elements-for-elementor/
