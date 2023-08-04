@@ -50,6 +50,7 @@ https://sjaeger.mywdd.info/wordpress/
 - header, footer (https://wordpress.org/plugins/header-footer-elementor/)
 - ........................................
 - box model (width, height, padding, ...)
+- images
 - flexbox
 - grid
 - hover rules (elementor)
