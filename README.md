@@ -40,15 +40,17 @@ https://sjaeger.mywdd.info/wordpress/
 - ✍️ setze meta-infos für deine posts
 - ✍️ weitere plugins (präsentationen)
 - ........................................
-- elementor/pages
-- settings, homepage, verstecke header/footer/title
-- globale farben/typo (site settings)
-- widgets
-- sektionen, spalten
-- farbe, typo
-- links, iframes (social media etc.)
+- elementor
+- settings (flex, grid, top nav, no global colors/fonts)
+- hide page title
+- widgets: container and children
+- styles: color, typo, ...
+- kaskade: globale styles, lokale styles
+- pages, set a hompeage, add pages to menu
+- header, footer (https://wordpress.org/plugins/header-footer-elementor/)
+- menu icons (https://wordpress.org/plugins/menu-icons/)
 - ........................................
-- box-modell (width, height, padding, ...)
+- box model (width, height, padding, ...)
 - allignment (left, right, center, ...)
 - hover rules (elementor)
 - responsive rules (elementor)
