@@ -48,7 +48,6 @@ https://sjaeger.mywdd.info/wordpress/
 - kaskade: globale styles, lokale styles
 - pages, set a hompeage, add pages to menu
 - header, footer (https://wordpress.org/plugins/header-footer-elementor/)
-- menu icons (https://wordpress.org/plugins/menu-icons/)
 - ........................................
 - box model (width, height, padding, ...)
 - allignment (left, right, center, ...)
