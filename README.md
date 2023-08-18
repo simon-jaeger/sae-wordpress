@@ -34,7 +34,7 @@ https://sjaeger.mywdd.info/wordpress/
 - menüs
 - sub indexes: /category/foobar
 - ........................................
-- plugins (duplicate page, autodescription)
+- plugins (duplicate page, ...)
 - seo: title, desc, ... (autodescription plugin)
 - T: setze meta-infos für deine posts
 - T: weitere plugins (präsentationen)
