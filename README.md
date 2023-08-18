@@ -10,9 +10,9 @@ https://sjaeger.mywdd.info/wordpress/
 
 ## themen
 
-- ✍️ vorstellungsrunde
+- T: vorstellungsrunde
 - www, server, domains, hosting
-- ✍️ hostinganbieter (präsentationen)
+- T: hostinganbieter (präsentationen)
 - ftp: connect; upload wp.zip, unzipper.php; unzip
 - wp: installation
 - wp: übersicht
@@ -23,7 +23,7 @@ https://sjaeger.mywdd.info/wordpress/
 - ........................................
 - themes vs content
 - posts (gutenberg): verwalten, blöcke, inline styles
-- ✍️ recherche: themes (https://themeforest.net/category/wordpress/blog-magazine?sort=rating#content)
+- T: recherche: themes (https://themeforest.net/category/wordpress/blog-magazine?sort=rating#content)
 - ........................................
 - multimedia
 - bildoptimierung (squoosh) und alt-text
@@ -34,11 +34,10 @@ https://sjaeger.mywdd.info/wordpress/
 - menüs
 - sub indexes: /category/foobar
 - ........................................
-- plugins (svg-support, duplicate page)
-- seo (https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
-- seo (autodescription plugin)
-- ✍️ setze meta-infos für deine posts
-- ✍️ weitere plugins (präsentationen)
+- plugins (duplicate page, autodescription)
+- seo: title, desc, ... (autodescription plugin)
+- T: setze meta-infos für deine posts
+- T: weitere plugins (präsentationen)
 - ........................................
 - elementor
 - settings (flex, grid, top nav, no global colors/fonts)
@@ -58,17 +57,14 @@ https://sjaeger.mywdd.info/wordpress/
 - ........................................
 - kategorien und index (ultimate-post-kit)
 - kontaktformular (metform)
+- custom widgets (unlimited elements)
 - ........................................
-- ✍️ präsentation fortschritt
-- backups (filezilla + table plus)
-- advanced/optional: custom widgets (elements-kit/unlimited elements)
-- ✍️ selbstständiges arbeiten, einzel-support
+- T: selbstständiges arbeiten, einzel-support
 - ........................................
 
 ## tools
 
 - https://filezilla-project.org/download.php?type=client
-- https://tableplus.com/
 - https://wordpress.org/download/
 - https://github.com/ndeet/unzipper/blob/master/unzipper.php
 - https://squoosh.app/
@@ -77,14 +73,11 @@ https://sjaeger.mywdd.info/wordpress/
 ## themes und plugins
 
 - https://wordpress.org/themes/hello-elementor/
-- https://wordpress.org/plugins/svg-support/
 - https://wordpress.org/plugins/duplicate-page/
+- https://wordpress.org/plugins/autodescription/
 - https://wordpress.org/plugins/elementor/
 - https://wordpress.org/plugins/header-footer-elementor/
-- https://wordpress.org/plugins/autodescription/
-- https://wordpress.org/plugins/ultimate-post-kit/
 - https://wordpress.org/plugins/metform/
-- https://wordpress.org/plugins/elementskit-lite/
 - https://wordpress.org/plugins/unlimited-elements-for-elementor/
 
 ## docs and guides
