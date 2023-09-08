@@ -58,6 +58,7 @@ https://sjaeger.mywdd.info/wordpress/
 - kategorien und index (ultimate-post-kit)
 - kontaktformular (metform)
 - custom widgets (unlimited elements)
+- extra widgets (ultimate post kit)
 - ........................................
 - T: selbstständiges arbeiten, einzel-support
 - ........................................
@@ -79,6 +80,7 @@ https://sjaeger.mywdd.info/wordpress/
 - https://wordpress.org/plugins/header-footer-elementor/
 - https://wordpress.org/plugins/metform/
 - https://wordpress.org/plugins/unlimited-elements-for-elementor/
+- https://wordpress.org/plugins/ultimate-post-kit/
 
 ## docs and guides
 
