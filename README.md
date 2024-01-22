@@ -58,6 +58,7 @@ https://sjaeger.mywdd.info/wordpress/
 - kategorien und index (ultimate post kit)
 - kontaktformular (metform)
 - custom widgets (unlimited elements)
+- calculators (wp cost calculator)
 - ........................................
 - backups (wp-migrate)
 - local wordpress (localwp)
@@ -84,6 +85,7 @@ https://sjaeger.mywdd.info/wordpress/
 - https://wordpress.org/plugins/metform/
 - https://wordpress.org/plugins/unlimited-elements-for-elementor/
 - https://wordpress.org/plugins/ultimate-post-kit/
+- https://wordpress.org/plugins/cost-calculator-builder/
 - https://wordpress.org/plugins/wp-migrate-db
 
 ## docs and guides
