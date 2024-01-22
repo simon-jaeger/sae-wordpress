@@ -55,10 +55,12 @@ https://sjaeger.mywdd.info/wordpress/
 - hover rules (elementor)
 - responsive rules (elementor)
 - ........................................
-- kategorien und index (ultimate-post-kit)
+- kategorien und index (ultimate post kit)
 - kontaktformular (metform)
 - custom widgets (unlimited elements)
-- extra widgets (ultimate post kit)
+- ........................................
+- backups (wp-migrate)
+- local wordpress (localwp)
 - ........................................
 - T: selbstständiges arbeiten, einzel-support
 - ........................................
@@ -70,6 +72,7 @@ https://sjaeger.mywdd.info/wordpress/
 - https://github.com/ndeet/unzipper/blob/master/unzipper.php
 - https://squoosh.app/
 - https://apps.apple.com/app/id1545870783 (color picker)
+- https://localwp.com/
 
 ## themes und plugins
 
@@ -81,6 +84,7 @@ https://sjaeger.mywdd.info/wordpress/
 - https://wordpress.org/plugins/metform/
 - https://wordpress.org/plugins/unlimited-elements-for-elementor/
 - https://wordpress.org/plugins/ultimate-post-kit/
+- https://wordpress.org/plugins/wp-migrate-db
 
 ## docs and guides
 
