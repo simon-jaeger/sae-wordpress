@@ -1,6 +1,6 @@
 # sae cm
 
-websites mit wordpress (6 * 6h)
+websites mit wordpress (5 * 6h)
 
 - [canvas](https://canvas.sae.edu/courses/14917)
 - [sae blog](https://projekte.sae.ch)
@@ -21,44 +21,50 @@ https://sjaeger.mywdd.info/wordpress/
 - T: recherche andere blogs (siehe canvas: ideenfindung)
 - T: start konzept eigener blog (siehe canvas: konzept)
 - ........................................
-- themes vs content
-- posts (gutenberg): verwalten, blöcke, inline styles
-- T: recherche: themes (https://themeforest.net/category/wordpress/blog-magazine?sort=rating#content)
+- themes (twenty twenty)
+- plugins (duplicate page)
+- gutenberg
+- posts
+- kommentare
 - ........................................
 - multimedia
 - bildoptimierung (squoosh) und alt-text
 - freie assets (pexels, undraw, remixicon)
 - ........................................
-- kommentare
 - kategorien
 - menüs
 - sub indexes: /category/foobar
 - ........................................
-- plugins (duplicate page, ...)
 - seo: title, desc, ... (autodescription plugin)
+- R: https://developers.google.com/search/docs/fundamentals/seo-starter-guide
+- T: team black hat vs white hat (präsentationen)
 - T: setze meta-infos für deine posts
-- T: weitere plugins (präsentationen)
+- T: optimiere deine posts für seo
 - ........................................
 - elementor
 - settings (flex, grid, top nav, no global colors/fonts)
 - hide page title
-- widgets: container and children
+- widgets: heading, paragraph, image, ...
 - styles: color, typo, ...
 - kaskade: globale styles, lokale styles
-- pages, set a hompeage, add pages to menu
-- header, footer (https://wordpress.org/plugins/header-footer-elementor/)
-- ........................................
 - box model (width, height, padding, ...)
 - images
+- pages, set a hompeage, add pages to menu
+- header, footer (header-footer-elementor plugin)
+- T: elementor anwenden (basics)
+- ........................................
+- container/groups
 - flexbox
 - grid
 - hover rules (elementor)
 - responsive rules (elementor)
+- T: elementor anwenden (advanced)
 - ........................................
 - kategorien und index (ultimate post kit)
 - kontaktformular (metform)
 - custom widgets (unlimited elements)
 - calculators (wp cost calculator)
+- T: spezielle pages (kontakt, indexing, ...)
 - ........................................
 - backups (wp-migrate)
 - local wordpress (localwp)
