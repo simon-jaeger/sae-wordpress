@@ -21,7 +21,7 @@ https://sjaeger.mywdd.info/wordpress/
 - T: recherche andere blogs (siehe canvas: ideenfindung)
 - T: start konzept eigener blog (siehe canvas: konzept)
 - ........................................
-- themes (twenty twenty)
+- themes (twenty twenty, kubio, ...)
 - plugins (duplicate page)
 - gutenberg
 - posts
@@ -35,15 +35,9 @@ https://sjaeger.mywdd.info/wordpress/
 - menüs
 - sub indexes: /category/foobar
 - ........................................
-- seo: title, desc, ... (autodescription plugin)
-- R: https://developers.google.com/search/docs/fundamentals/seo-starter-guide
-- T: team black hat vs white hat (präsentationen)
-- T: setze meta-infos für deine posts
-- T: optimiere deine posts für seo
-- ........................................
 - elementor
-- settings (flex, grid, top nav, no global colors/fonts)
-- hide page title
+- elementor: settings (grid, top nav, no global colors/fonts)
+- hello elementor: settings (hide header/footer, title)
 - widgets: heading, paragraph, image, ...
 - styles: color, typo, ...
 - kaskade: globale styles, lokale styles
@@ -60,15 +54,22 @@ https://sjaeger.mywdd.info/wordpress/
 - responsive rules (elementor)
 - T: elementor anwenden (advanced)
 - ........................................
+- custom css (css plugin, use e.g. for grid: .elementor-element-82094f0 { grid-column: span 2; } )
+- custom widgets (unlimited elements plugin, use e.g for image with text overlay)
+- T: elementor anwenden (coding)
+- ........................................
 - kategorien und index (ultimate post kit)
 - kontaktformular (metform)
-- custom widgets (unlimited elements)
-- calculators (wp cost calculator)
 - T: spezielle pages (kontakt, indexing, ...)
 - ........................................
-- backups (wp-migrate)
-- local wordpress (localwp)
+- seo: title, desc, ... (autodescription plugin)
+- R: https://developers.google.com/search/docs/fundamentals/seo-starter-guide
+- T: team black hat vs white hat (präsentationen)
+- T: setze meta-infos für deine posts
+- T: optimiere deine posts für seo
 - ........................................
+- local wordpress sandboxes (localwp)
+- backups (wp-migrate)
 - T: selbstständiges arbeiten, einzel-support
 - ........................................
 
@@ -88,10 +89,10 @@ https://sjaeger.mywdd.info/wordpress/
 - https://wordpress.org/plugins/autodescription/
 - https://wordpress.org/plugins/elementor/
 - https://wordpress.org/plugins/header-footer-elementor/
+- https://wordpress.org/plugins/custom-css-for-elementor/
 - https://wordpress.org/plugins/metform/
 - https://wordpress.org/plugins/unlimited-elements-for-elementor/
 - https://wordpress.org/plugins/ultimate-post-kit/
-- https://wordpress.org/plugins/cost-calculator-builder/
 - https://wordpress.org/plugins/wp-migrate-db
 
 ## docs and guides
