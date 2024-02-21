@@ -31,42 +31,46 @@ https://sjaeger.mywdd.info/wordpress/
 - bildoptimierung (squoosh) und alt-text
 - freie assets (pexels, undraw, remixicon)
 - ........................................
-- kategorien
-- menüs
-- sub indexes: /category/foobar
-- ........................................
 - elementor
-- elementor: settings (grid, top nav, no global colors/fonts)
-- hello elementor: settings (hide header/footer, title)
+- elementor: plugin settings (grid, top nav, no global colors and fonts)
+- elementor: theme settings (hide header, footer, title)
+- elementor: custom css (`elementor_tweaks.css`)
 - widgets: heading, paragraph, image, ...
-- styles: color, typo, ...
-- kaskade: globale styles, lokale styles
-- box model (width, height, padding, ...)
-- images
-- pages, set a hompeage, add pages to menu
-- header, footer (header-footer-elementor plugin)
-- T: elementor anwenden (basics)
+- color, typography, ...
+- box model: width, height, border, margin, padding, ...
+- decorations: border radius and shadow, transform, gradients, overlays, ...
+- T: create an about page
 - ........................................
-- container/groups
+- containers
 - flexbox
 - grid
+- setting a hompeage
+- T: create a homepage
+- ........................................
+- cascade: global styles and inheritance
+- wp menus (add home and about pages)
+- header and footer (header-footer-elementor plugin)
+- T: create a header and footer
+- ........................................
 - hover rules (elementor)
 - responsive rules (elementor)
-- T: elementor anwenden (advanced)
+- T: improve your site
 - ........................................
-- custom css (css plugin, use e.g. for grid: .elementor-element-82094f0 { grid-column: span 2; } )
-- custom widgets (unlimited elements plugin, use e.g for image with text overlay)
-- T: elementor anwenden (coding)
+- custom css (css plugin)
+- custom widgets (unlimited elements plugin)
+- T: add custom code (css, widgets, ...)
 - ........................................
-- kategorien und index (ultimate post kit)
-- kontaktformular (metform)
-- T: spezielle pages (kontakt, indexing, ...)
+- categories
+- indexes (/category/foobar)
+- custom indexes (ultimate post kit)
+- contact forms (metform)
+- T: create a blog index page
+- T: create a blog contact page
 - ........................................
 - seo: title, desc, ... (autodescription plugin)
 - R: https://developers.google.com/search/docs/fundamentals/seo-starter-guide
 - T: team black hat vs white hat (präsentationen)
-- T: setze meta-infos für deine posts
-- T: optimiere deine posts für seo
+- T: create seo optimized blog posts
 - ........................................
 - local wordpress sandboxes (localwp)
 - backups (wp-migrate)
