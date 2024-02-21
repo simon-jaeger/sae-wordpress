@@ -52,13 +52,20 @@ https://sjaeger.mywdd.info/wordpress/
 - header and footer (header-footer-elementor plugin)
 - T: create a header and footer
 - ........................................
-- hover rules (elementor)
-- responsive rules (elementor)
-- T: improve your site
+- hover effects (color change etc.)
+- motion/scroll effects (fade in etc.)
+- responsive effects (desktop, tablet, mobile)
+- T: improve your site with effects
 - ........................................
+- advanced widgets: video, social icons, carousel, toggle
+- shortcodes (widget, elementor anywhere plugin, e.g. inside toggle)
+- T: use advanced widgets
+- T: use shortcodes
+- ........................................
+- html widget (iframe, snippet, ...)
 - custom css (css plugin)
 - custom widgets (unlimited elements plugin)
-- T: add custom code (css, widgets, ...)
+- T: add custom code (html, css, widgets, ...)
 - ........................................
 - categories
 - indexes (/category/foobar)
@@ -96,6 +103,7 @@ https://sjaeger.mywdd.info/wordpress/
 - https://wordpress.org/plugins/custom-css-for-elementor/
 - https://wordpress.org/plugins/metform/
 - https://wordpress.org/plugins/unlimited-elements-for-elementor/
+- https://wordpress.org/plugins/anywhere-elementor/
 - https://wordpress.org/plugins/ultimate-post-kit/
 - https://wordpress.org/plugins/wp-migrate-db
 
