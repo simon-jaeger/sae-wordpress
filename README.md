@@ -34,7 +34,7 @@ https://sjaeger.mywdd.info/wordpress/
 - T: try some themes
 - ........................................
 - elementor
-- elementor: plugin settings (grid, top nav, no global colors and fonts)
+- elementor: plugin settings (grid, top nav)
 - elementor: theme settings (hide header, footer, title)
 - widgets: heading, paragraph, image, ...
 - color, typography, ...
@@ -47,7 +47,8 @@ https://sjaeger.mywdd.info/wordpress/
 - setting a hompeage
 - T: create a homepage
 - ........................................
-- cascade: global styles and inheritance
+- custom fonts (plugin, font squirrel)
+- site settings: global styles (background, colors, max width, ...)
 - wp menus (add home and about pages)
 - header and footer (header-footer-elementor plugin)
 - T: create a header and footer
@@ -100,6 +101,7 @@ https://sjaeger.mywdd.info/wordpress/
 - https://wordpress.org/plugins/duplicate-page/
 - https://wordpress.org/plugins/autodescription/
 - https://wordpress.org/plugins/elementor/
+- https://wordpress.org/plugins/custom-fonts/
 - https://wordpress.org/plugins/header-footer-elementor/
 - https://wordpress.org/plugins/custom-css-for-elementor/
 - https://wordpress.org/plugins/metform/
