@@ -25,20 +25,20 @@ https://sjaeger.mywdd.info/wordpress/
 - plugins (duplicate page)
 - gutenberg
 - posts
-- kommentare
+- comments
+- T: create a few example posts
 - ........................................
-- multimedia
-- bildoptimierung (squoosh) und alt-text
-- freie assets (pexels, undraw, remixicon)
+- media and alt text
+- image optimization (2000px max, webp squoosh)
+- free assets (pexels, undraw, remixicon)
+- T: try some themes
 - ........................................
 - elementor
 - elementor: plugin settings (grid, top nav, no global colors and fonts)
 - elementor: theme settings (hide header, footer, title)
-- elementor: custom css (`elementor_tweaks.css`)
 - widgets: heading, paragraph, image, ...
 - color, typography, ...
 - box model: width, height, border, margin, padding, ...
-- decorations: border radius and shadow, transform, gradients, overlays, ...
 - T: create an about page
 - ........................................
 - containers
@@ -52,10 +52,11 @@ https://sjaeger.mywdd.info/wordpress/
 - header and footer (header-footer-elementor plugin)
 - T: create a header and footer
 - ........................................
+- decorations: border radius and shadow, transform, gradients, overlays, ...
 - hover effects (color change etc.)
 - motion/scroll effects (fade in etc.)
 - responsive effects (desktop, tablet, mobile)
-- T: improve your site with effects
+- T: improve your site with decorations and effects
 - ........................................
 - advanced widgets: video, social icons, carousel, toggle
 - shortcodes (widget, elementor anywhere plugin, e.g. inside toggle)
