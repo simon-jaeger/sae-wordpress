@@ -8,7 +8,7 @@ websites mit wordpress (5 * 6h)
 
 https://sjaeger.mywdd.info/wordpress/
 
-## themen
+## outline
 
 - T: vorstellungsrunde
 - www, server, domains, hosting
@@ -44,7 +44,7 @@ https://sjaeger.mywdd.info/wordpress/
 - containers
 - flexbox
 - grid
-- setting a hompeage
+- setting a hompepage (appearance.customize)
 - T: create a homepage
 - ........................................
 - custom fonts (plugin, font squirrel)
@@ -53,11 +53,26 @@ https://sjaeger.mywdd.info/wordpress/
 - header and footer (header-footer-elementor plugin)
 - T: create a header and footer
 - ........................................
+- categories
+- indexes (/category/foobar)
+- custom indexes (ultimate post kit)
+- T: create a blog index page
+- ........................................
 - decorations: border radius and shadow, transform, gradients, overlays, ...
 - hover effects (color change etc.)
 - motion/scroll effects (fade in etc.)
-- responsive effects (desktop, tablet, mobile)
 - T: improve your site with decorations and effects
+- ........................................
+- responsive design (desktop, tablet, mobile)
+- T: make your site responsive
+- ........................................
+- contact forms (metform)
+- T: create a contact page
+- ........................................
+- seo: title, desc, ... (autodescription plugin)
+- R: https://developers.google.com/search/docs/fundamentals/seo-starter-guide
+- T: team black hat vs white hat (präsentationen)
+- T: optimize your blog posts for seo
 - ........................................
 - advanced widgets: video, social icons, carousel, toggle
 - shortcodes (widget, elementor anywhere plugin, e.g. inside toggle)
@@ -69,21 +84,9 @@ https://sjaeger.mywdd.info/wordpress/
 - custom widgets (unlimited elements plugin)
 - T: add custom code (html, css, widgets, ...)
 - ........................................
-- categories
-- indexes (/category/foobar)
-- custom indexes (ultimate post kit)
-- contact forms (metform)
-- T: create a blog index page
-- T: create a blog contact page
-- ........................................
-- seo: title, desc, ... (autodescription plugin)
-- R: https://developers.google.com/search/docs/fundamentals/seo-starter-guide
-- T: team black hat vs white hat (präsentationen)
-- T: create seo optimized blog posts
-- ........................................
 - local wordpress sandboxes (localwp)
 - backups (wp-migrate)
-- T: selbstständiges arbeiten, einzel-support
+- T: work on your site
 - ........................................
 
 ## tools
@@ -95,7 +98,7 @@ https://sjaeger.mywdd.info/wordpress/
 - https://apps.apple.com/app/id1545870783 (color picker)
 - https://localwp.com/
 
-## themes und plugins
+## themes and plugins
 
 - https://wordpress.org/themes/hello-elementor/
 - https://wordpress.org/plugins/duplicate-page/
