@@ -51,7 +51,8 @@ https://sjaeger.mywdd.info/wordpress/
 - site settings: global styles (background, colors, max width, ...)
 - wp menus (add home and about pages)
 - header and footer (header-footer-elementor plugin)
-- T: create a header and footer
+- nav (widget from plugin, menu image plugin)
+- T: create a header nav and a footer
 - ........................................
 - categories
 - indexes (/category/foobar)
@@ -74,7 +75,7 @@ https://sjaeger.mywdd.info/wordpress/
 - T: team black hat vs white hat (präsentationen)
 - T: optimize your blog posts for seo
 - ........................................
-- advanced widgets: video, social icons, carousel, toggle
+- advanced widgets: carousel, toggle, etc.
 - shortcodes (widget, elementor anywhere plugin, e.g. inside toggle)
 - T: use advanced widgets
 - T: use shortcodes
@@ -106,11 +107,12 @@ https://sjaeger.mywdd.info/wordpress/
 - https://wordpress.org/plugins/elementor/
 - https://wordpress.org/plugins/custom-fonts/
 - https://wordpress.org/plugins/header-footer-elementor/
-- https://wordpress.org/plugins/custom-css-for-elementor/
-- https://wordpress.org/plugins/metform/
+- https://wordpress.org/plugins/menu-image/
 - https://wordpress.org/plugins/unlimited-elements-for-elementor/
-- https://wordpress.org/plugins/anywhere-elementor/
 - https://wordpress.org/plugins/ultimate-post-kit/
+- https://wordpress.org/plugins/metform/
+- https://wordpress.org/plugins/custom-css-for-elementor/
+- https://wordpress.org/plugins/anywhere-elementor/
 - https://wordpress.org/plugins/wp-migrate-db
 
 ## docs and guides
