@@ -10,6 +10,10 @@ body {
 	margin: 0 auto;
 }
 
+.comment-meta {
+  flex-wrap: wrap;
+}
+
 /* links */
 .comments-area a {
 	color: #00ff00;

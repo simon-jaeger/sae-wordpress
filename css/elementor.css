@@ -1,13 +1,3 @@
-.comments-area {
-  max-width: 1140px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.comment-meta {
-  flex-wrap: wrap;
-}
-
 .elementor-empty-view {
   min-width: 40px !important;
   min-height: 40px !important;
