@@ -1,0 +1,31 @@
+body {
+	color: #CBCBCB;
+}
+
+/* container */
+.comments-area {
+	color: #ffffff;
+	max-width: 1160px;
+	padding: 0 10px;
+	margin: 0 auto;
+}
+
+/* links */
+.comments-area a {
+	color: #00ff00;
+}
+
+.comments-area a:hover {
+	color: #00ffff;
+}
+
+/* buttons */
+.comments-area input[type="submit"]{
+	color: #00ff00;
+	border: 1px solid #00ff00;
+}
+
+.comments-area input[type="submit"]:hover {
+	background: transparent;
+}
+
