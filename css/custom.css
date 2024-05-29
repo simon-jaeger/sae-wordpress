@@ -1,11 +1,13 @@
-body {
-  color: #cbcbcb;
-}
-
-/* container */
+.header-inner,
 #comments {
-  max-width: 1160px;
+  max-width: 1160px !important;
   margin: 0 auto;
   padding: 0 10px;
+}
+
+
+.elementor-empty-view {
+  min-width: 40px !important;
+  min-height: 40px !important;
 }
 

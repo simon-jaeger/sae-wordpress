@@ -10,54 +10,62 @@ https://sjaeger.mywdd.info/wordpress/
 
 ## outline
 
-- T: vorstellungsrunde
+- T: introductions
 - www, server, domains, hosting
-- T: hostinganbieter (präsentationen)
-- ftp: connect; upload wp.zip, unzipper.php; unzip
-- wp: installation
-- wp: übersicht
-- T: read and explore (https://wordpress.org/documentation/category/where-to-start/)
-- T: kursplan durchlesen
-- T: recherche andere blogs (siehe canvas: ideenfindung)
-- T: start konzept eigener blog (siehe canvas: konzept)
+- T: hosting provider presentations
+- http, html and google chrome
+- T: create index.html
+- ftp and filezilla 
+- T: upload index.html
 - ........................................
-- themes (twenty twenty, kubio, ...)
+- wordpress
+- upload
+- installation
+- overview
+- T: https://wordpress.org/documentation/article/introduction-to-blogging/
+- T: https://wordpress.org/documentation/article/get-started-with-wordpress/
+- ........................................
+- pages
+- settings
 - plugins (duplicate page)
-- gutenberg
-- posts
-- comments
-- T: create a few example posts
+- themes (twenty twenty, kubio, hello elementor, ...)
+- T: try a few more themes
 - ........................................
-- media and alt text
+- media
+- alt texts
 - image optimization (2000px max, webp squoosh)
 - free assets (pexels, undraw, remixicon)
-- T: try some themes
+- T: upload a few optimized images and add alt texts
 - ........................................
 - elementor
-- elementor: plugin settings (grid, top nav)
+- elementor: plugin settings (disable default colors and fonts, feature: grid container, feature: editor top bar)
 - elementor: theme settings (hide header, footer, title)
-- widgets: heading, paragraph, image, ...
-- color, typography, ...
+- widgets: heading, paragraph, image, button, links, ...
+- styling: color, typography, ...
 - box model: width, height, border, margin, padding, ...
-- T: create an about page
+- T: create a simple about page
 - ........................................
+- site settings: theme styles
+- T: customize your theme styles
+- ........................................
+- menus
+- site settings: hello theme header and footer
+- T: create a menu for your header
+- T: customize your header and footer
+- ........................................
+- customizer: identity, homepage, custom css
 - containers
 - flexbox
 - grid
-- setting a hompepage (appearance.customize)
-- T: create a homepage
+- T: create a fancy homepage
 - ........................................
-- custom fonts (plugin, font squirrel)
-- site settings: global styles (background, colors, max width, ...)
-- wp menus (add home and about pages)
-- header and footer (header-footer-elementor plugin)
-- nav (widget from plugin, menu image plugin)
-- T: create a header nav and a footer
-- ........................................
+- posts
+- comments
 - categories
 - indexes (/category/foobar)
 - custom indexes (ultimate post kit)
-- T: create a blog index page
+- T: create a few blog posts
+- T: create a custom blog index
 - ........................................
 - decorations: border radius and shadow, transform, gradients, overlays, ...
 - hover effects (color change etc.)
@@ -81,8 +89,8 @@ https://sjaeger.mywdd.info/wordpress/
 - T: use shortcodes
 - ........................................
 - html widget (iframe, snippet, ...)
-- custom css (css plugin)
-- custom widgets (unlimited elements plugin)
+- custom widget css (css plugin)
+- custom widget html (unlimited elements plugin)
 - T: add custom code (html, css, widgets, ...)
 - ........................................
 - local wordpress sandboxes (localwp)
@@ -92,9 +100,9 @@ https://sjaeger.mywdd.info/wordpress/
 
 ## tools
 
+- https://www.google.com/chrome/
 - https://filezilla-project.org/download.php?type=client
 - https://wordpress.org/download/
-- https://github.com/ndeet/unzipper/blob/master/unzipper.php
 - https://squoosh.app/
 - https://apps.apple.com/app/id1545870783 (color picker)
 - https://localwp.com/
