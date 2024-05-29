@@ -39,7 +39,7 @@ https://sjaeger.mywdd.info/wordpress/
 - ........................................
 - elementor
 - elementor: plugin settings (disable default colors and fonts, feature: grid container, feature: editor top bar)
-- elementor: theme settings (hide header, footer, title)
+- elementor: theme settings (hide title)
 - widgets: heading, paragraph, image, button, links, ...
 - styling: color, typography, ...
 - box model: width, height, border, margin, padding, ...
@@ -113,14 +113,15 @@ https://sjaeger.mywdd.info/wordpress/
 - https://wordpress.org/plugins/duplicate-page/
 - https://wordpress.org/plugins/autodescription/
 - https://wordpress.org/plugins/elementor/
-- https://wordpress.org/plugins/custom-fonts/
-- https://wordpress.org/plugins/header-footer-elementor/
-- https://wordpress.org/plugins/menu-image/
 - https://wordpress.org/plugins/unlimited-elements-for-elementor/
 - https://wordpress.org/plugins/ultimate-post-kit/
 - https://wordpress.org/plugins/metform/
 - https://wordpress.org/plugins/custom-css-for-elementor/
+
+- https://wordpress.org/plugins/custom-fonts/
+- https://wordpress.org/plugins/menu-image/
 - https://wordpress.org/plugins/anywhere-elementor/
+- https://wordpress.org/plugins/header-footer-elementor/
 - https://wordpress.org/plugins/wp-migrate-db
 
 ## docs and guides
