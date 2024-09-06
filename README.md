@@ -25,12 +25,6 @@ https://sjaeger.mywdd.info/wordpress/
 - themes (twenty twenty, kubio, jadro, zeever, hello elementor, ...)
 - T: try a few more themes
 - ........................................
-- media
-- alt texts
-- image optimization (2000px max, webp squoosh)
-- free assets (pexels, undraw, remixicon)
-- T: upload a few optimized images and add alt texts
-- ........................................
 - elementor
 - elementor: plugin settings (disable default colors and fonts, feature: grid container, feature: editor top bar)
 - elementor: theme settings (hide title)
@@ -38,6 +32,12 @@ https://sjaeger.mywdd.info/wordpress/
 - styling: color, typography, ...
 - box model: width, height, border, margin, padding, ...
 - T: create a simple about page
+- ........................................
+- media
+- alt texts
+- image optimization (2000px max, webp squoosh)
+- free assets (pexels, undraw, remixicon)
+- T: upload a few optimized images and add alt texts
 - ........................................
 - site settings: theme styles
 - T: customize your theme styles
