@@ -11,14 +11,8 @@ https://sjaeger.mywdd.info/wordpress/
 ## outline
 
 - T: introductions
-- www, server, domains, hosting
-- T: hosting provider presentations
-- http, html and google chrome
-- T: create index.html
-- ftp and filezilla 
-- T: upload index.html
-- ........................................
 - wordpress
+- ftp and filezilla 
 - upload
 - installation
 - overview
@@ -28,7 +22,7 @@ https://sjaeger.mywdd.info/wordpress/
 - pages
 - settings
 - plugins (duplicate page)
-- themes (twenty twenty, kubio, hello elementor, ...)
+- themes (twenty twenty, kubio, jadro, zeever, hello elementor, ...)
 - T: try a few more themes
 - ........................................
 - media
