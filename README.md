@@ -87,8 +87,8 @@ https://sjaeger.mywdd.info/wordpress/
 - custom widget html (unlimited elements plugin)
 - T: add custom code (html, css, widgets, ...)
 - ........................................
-- local wordpress sandboxes (localwp)
 - backups (wp-migrate)
+- local wordpress sandboxes (localwp)
 - T: work on your site
 - ........................................
 
