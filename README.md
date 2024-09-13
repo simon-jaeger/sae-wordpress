@@ -23,7 +23,6 @@ https://sjaeger.mywdd.info/wordpress/
 - settings
 - plugins (duplicate page)
 - themes (twenty twenty, kubio, jadro, zeever, hello elementor, ...)
-- T: try a few more themes
 - ........................................
 - elementor
 - elementor: plugin settings (disable default colors and fonts, feature: grid container, feature: editor top bar)
@@ -42,16 +41,16 @@ https://sjaeger.mywdd.info/wordpress/
 - site settings: theme styles
 - T: customize your theme styles
 - ........................................
-- menus
-- site settings: hello theme header and footer
-- T: create a menu for your header
-- T: customize your header and footer
-- ........................................
 - customizer: identity, homepage, custom css
 - containers
 - flexbox
 - grid
 - T: create a fancy homepage
+- ........................................
+- menus
+- site settings: hello theme header and footer
+- T: create a menu for your header
+- T: customize your header and footer
 - ........................................
 - posts
 - comments
