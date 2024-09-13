@@ -73,7 +73,6 @@ https://sjaeger.mywdd.info/wordpress/
 - ........................................
 - seo: title, desc, ... (autodescription plugin)
 - R: https://developers.google.com/search/docs/fundamentals/seo-starter-guide
-- T: team black hat vs white hat (präsentationen)
 - T: optimize your blog posts for seo
 - ........................................
 - advanced widgets: carousel, toggle, etc.
@@ -97,8 +96,8 @@ https://sjaeger.mywdd.info/wordpress/
 - https://filezilla-project.org/download.php?type=client
 - https://wordpress.org/download/
 - https://squoosh.app/
-- https://apps.apple.com/app/id1545870783 (color picker)
 - https://localwp.com/
+- https://apps.apple.com/app/id1545870783 (color picker)
 
 ## themes and plugins
 
@@ -110,7 +109,6 @@ https://sjaeger.mywdd.info/wordpress/
 - https://wordpress.org/plugins/ultimate-post-kit/
 - https://wordpress.org/plugins/metform/
 - https://wordpress.org/plugins/custom-css-for-elementor/
-
 - https://wordpress.org/plugins/custom-fonts/
 - https://wordpress.org/plugins/menu-image/
 - https://wordpress.org/plugins/anywhere-elementor/
