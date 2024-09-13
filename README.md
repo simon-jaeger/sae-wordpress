@@ -39,18 +39,18 @@ https://sjaeger.mywdd.info/wordpress/
 - T: upload a few optimized images and add alt texts
 - ........................................
 - site settings: theme styles
+- customizer: identity, homepage
 - T: customize your theme styles
-- ........................................
-- customizer: identity, homepage, custom css
-- containers
-- flexbox
-- grid
-- T: create a fancy homepage
 - ........................................
 - menus
 - site settings: hello theme header and footer
 - T: create a menu for your header
 - T: customize your header and footer
+- ........................................
+- containers
+- flexbox
+- grid
+- T: create a fancy homepage
 - ........................................
 - posts
 - comments
