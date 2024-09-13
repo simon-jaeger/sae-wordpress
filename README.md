@@ -52,6 +52,11 @@ https://sjaeger.mywdd.info/wordpress/
 - grid
 - T: create a fancy homepage
 - ........................................
+- decorations: border radius and shadow, transform, gradients, overlays, filters, ...
+- hover effects (color change etc.)
+- motion/scroll effects (fade in etc.)
+- T: improve your site with decorations and effects
+- ........................................
 - posts
 - comments
 - categories
@@ -59,11 +64,6 @@ https://sjaeger.mywdd.info/wordpress/
 - custom indexes (ultimate post kit)
 - T: create a few blog posts
 - T: create a custom blog index
-- ........................................
-- decorations: border radius and shadow, transform, gradients, overlays, ...
-- hover effects (color change etc.)
-- motion/scroll effects (fade in etc.)
-- T: improve your site with decorations and effects
 - ........................................
 - responsive design (desktop, tablet, mobile)
 - T: make your site responsive
