@@ -65,15 +65,15 @@ https://sjaeger.mywdd.info/wordpress/
 - T: create a few blog posts
 - T: create a custom blog index
 - ........................................
+- seo: title, desc, ... (autodescription plugin)
+- R: https://developers.google.com/search/docs/fundamentals/seo-starter-guide
+- T: optimize your blog posts for seo
+- ........................................
 - responsive design (desktop, tablet, mobile)
 - T: make your site responsive
 - ........................................
 - contact forms (metform)
 - T: create a contact page
-- ........................................
-- seo: title, desc, ... (autodescription plugin)
-- R: https://developers.google.com/search/docs/fundamentals/seo-starter-guide
-- T: optimize your blog posts for seo
 - ........................................
 - advanced widgets: carousel, toggle, etc.
 - shortcodes (widget, elementor anywhere plugin, e.g. inside toggle)
@@ -87,8 +87,8 @@ https://sjaeger.mywdd.info/wordpress/
 - ........................................
 - backups (wp-migrate)
 - local wordpress sandboxes (localwp)
-- T: work on your site
 - ........................................
+- T: work on your site
 
 ## tools
 
