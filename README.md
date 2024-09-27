@@ -75,6 +75,9 @@ https://sjaeger.mywdd.info/wordpress/
 - contact forms (metform)
 - T: create a contact page
 - ........................................
+- backups (wp-migrate)
+- local wordpress sandboxes (localwp)
+- ........................................
 - advanced widgets: carousel, toggle, etc.
 - shortcodes (widget, elementor anywhere plugin, e.g. inside toggle)
 - T: use advanced widgets
@@ -84,9 +87,6 @@ https://sjaeger.mywdd.info/wordpress/
 - custom widget css (css plugin)
 - custom widget html (unlimited elements plugin)
 - T: add custom code (html, css, widgets, ...)
-- ........................................
-- backups (wp-migrate)
-- local wordpress sandboxes (localwp)
 - ........................................
 - T: work on your site
 
