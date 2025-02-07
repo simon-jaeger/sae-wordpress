@@ -75,8 +75,8 @@ https://cd-000-simonj.mywdd.info
 - contact forms (metform)
 - T: create a contact page
 - ........................................
-- backups (wp-migrate)
-- local wordpress sandboxes (localwp)
+- backups and transfers (updraft plus)
+- T: create a backup of your site
 - ........................................
 - advanced widgets: carousel, toggle, etc.
 - shortcodes (widget, elementor anywhere plugin, e.g. inside toggle)
@@ -113,7 +113,7 @@ https://cd-000-simonj.mywdd.info
 - https://wordpress.org/plugins/menu-image/
 - https://wordpress.org/plugins/anywhere-elementor/
 - https://wordpress.org/plugins/header-footer-elementor/
-- https://wordpress.org/plugins/wp-migrate-db
+- https://wordpress.org/plugins/updraftplus/
 
 ## docs and guides
 
