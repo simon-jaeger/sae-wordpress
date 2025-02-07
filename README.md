@@ -42,6 +42,9 @@ https://cd-000-simonj.mywdd.info
 - customizer: identity, homepage
 - T: customize your theme styles
 - ........................................
+- sae canvas
+- T: read canvas assignemnts and start
+- ........................................
 - menus
 - site settings: hello theme header and footer
 - T: create a menu for your header
