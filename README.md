@@ -82,7 +82,7 @@ https://cd-000-simonj.mywdd.info
 - T: create a backup of your site
 - ........................................
 - advanced widgets: carousel, toggle, etc.
-- shortcodes (widget, elementor anywhere plugin, e.g. inside toggle)
+- shortcodes (e.g. ultimate custom block inside accordian)
 - T: use advanced widgets
 - T: use shortcodes
 - ........................................
@@ -114,7 +114,6 @@ https://cd-000-simonj.mywdd.info
 - https://wordpress.org/plugins/custom-css-for-elementor/
 - https://wordpress.org/plugins/custom-fonts/
 - https://wordpress.org/plugins/menu-image/
-- https://wordpress.org/plugins/anywhere-elementor/
 - https://wordpress.org/plugins/header-footer-elementor/
 - https://wordpress.org/plugins/updraftplus/
 
