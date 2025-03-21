@@ -82,7 +82,7 @@ https://cd-000-simonj.mywdd.info
 - T: create a backup of your site
 - ........................................
 - advanced widgets: carousel, toggle, etc.
-- shortcodes (e.g. ultimate custom block inside accordian)
+- shortcodes
 - T: use advanced widgets
 - T: use shortcodes
 - ........................................
